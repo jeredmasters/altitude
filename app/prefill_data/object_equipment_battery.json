@@ -1,0 +1,9 @@
+{
+  "company": "<company>",
+  "created_by": "<user>",
+  "created_ts": "<created_ts>",
+  "type": "equipment",
+  "title": "Inspire",
+  "scaffold": "<scaffolds[equipment_uas]>",
+  "data": {"type": "multirotor"}
+}

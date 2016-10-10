@@ -1,0 +1,36 @@
+<div ui-content-for="title">
+  <span>Send Invite</span>
+</div>
+
+<div class="scrollable">
+ <div class="scrollable-content section">
+   
+  <form role="form" ng-submit='sendInvite()' ng-hide="sent" name="inviteForm" novalidate>
+    <fieldset>
+      <legend></legend>
+        <div class="form-group" ng-class="{ 'has-error' : inviteForm.email.$invalid && !inviteForm.email.$pristine }">
+          <label>Email</label>
+          <input 
+                 name="email"
+                 type="email"
+                 ng-model="email"
+                 class="form-control"
+                 placeholder="Enter email"
+                 ng-required="true">
+          <p ng-show="inviteForm.email.$invalid && !inviteForm.email.$pristine" class="help-block">Email is required.</p>
+        </div>
+
+    </fieldset>
+    <hr>
+
+    <button class="btn btn-primary btn-block"  type='submit'>
+      Send
+    </button>
+
+  </form>
+  <div ng-show="sent">
+    <h3>Invite sent</h3>
+    <p>An invite to join your company has been sent to the email specified. This user will not send invites or edit users.</p>
+  </div>
+ </div>
+</div>

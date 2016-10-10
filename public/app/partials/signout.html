@@ -1,0 +1,29 @@
+<div ui-content-for="title">
+	<span>Sign out</span>
+</div>
+
+<div class="scrollable">
+	<div class="scrollable-content section">
+		<h2>Are you sure you wish to sign out?</h2>
+        <div class="top-md">
+            <label class="btn btn-danger" style="text-align: left;">
+                <input type="radio"
+                       ng-model="data.remember"
+                       value="forget"
+                       name="plan">
+                Remove my data from this device <br />(It will be downloaded again when you login again)
+            </label><br />
+        </div>
+        <div class="top-md">
+            <label class="btn btn-info" style="text-align: left;">
+                <input type="radio"
+                       ng-model="data.remember"
+                       value="remember"
+                       name="plan">
+                Keep my data so I can use Altitude offline
+            </label><br />
+        </div>
+        <br />
+        <br />
+	</div>
+</div>

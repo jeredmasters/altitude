@@ -1,0 +1,15 @@
+<!-- Create a file upload form with options passed in from your scope -->
+<form data-file-upload="options" data-ng-controller="UploadCtrl">
+
+    <!-- This button will trigger a file selection dialog -->
+    <span class="btn btn-success fileinput-button" ng-class="{disabled: disabled}">
+        <span>Add files...</span>
+        <input type="file" name="files" file-model="file">
+    </span>
+
+    <!-- This button will start the upload -->
+    <button type="button" class="btn btn-primary start" data-ng-click="submit()">
+        <span>Start upload</span>
+    </button>
+
+<form>

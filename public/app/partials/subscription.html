@@ -1,0 +1,121 @@
+<div ui-content-for="title">
+	<span>Edit User</span>
+</div>
+
+<div class="scrollable">
+	<div class="scrollable-content section">
+		
+        <ul class="nav nav-tabs" ui-state='activeTab' ui-default='1'>
+          <li ui-class="{'active': activeTab == 1}">
+            <a ui-set="{'activeTab': 1}">Plan</a>
+          </li>
+          <li ui-class="{'active': activeTab == 2}">
+            <a ui-set="{'activeTab': 2}">Payment Details</a>
+          </li>
+        </ul>
+
+        <div ui-if="activeTab == 1">
+          <div class="scrollable-content" >
+
+              <div ng-repeat="plan in plans" class="list-group-item" style="padding: 0" ng-class="{ 'section-info' : (selected_plan == plan.id) }">
+                  <div ng-click="isOpen[$index] = !isOpen[$index]" style="padding: 10px; cursor: pointer;">
+                      <i class="fa fa-{{plan.icon}} fa-2x"></i><span style="font-weight:700; margin-left:20px; margin-right:20px">{{plan.title}}</span>({{plan.short}})<i class="fa pull-right" ng-class='{"fa-chevron-right":(!isOpen[$index]), "fa-chevron-down":(isOpen[$index])}'></i>
+                  </div>
+                  <div collapse="!isOpen[$index]" style="overflow: auto;">
+                      <div class="col-xs-1"></div>
+                      <div class="col-xs-11">
+                          <div>{{plan.long}}</div>
+                          <span>
+                              ${{plan.price}}/Month
+                          </span>
+                          <br />
+                          <div class="btn-group btn-group-justified" ng-show="(selected_plan != plan.id)">
+                              <a class="btn btn-primary" ng-click="changePlan(plan.id)">
+                                  Change to this plan
+                              </a>
+                          </div>   
+                          <div ng-show="(selected_plan == plan.id)">
+                              <span class="label label-default">
+                                  Selected Plan {{(daysRemaining != -1 ? '. Trial, ' + daysRemaining + ' days remaining.' : '')}}
+                              </span>
+                          </div>   
+                          <br />                 
+                      </div>
+                  </div>
+              </div>
+
+          </div>
+        </div>
+
+        <div ui-if="activeTab == 2">
+          <div class="scrollable-content" >
+              <div ng-show="!showForm">
+                  <br />
+                  <div class="panel panel-default">
+                      <div class="panel-heading">Current Card</div>
+                      <div class="panel-body">
+                          <span>{{cardInfo}}</span>
+                      </div>
+                  </div>                  
+                  <input type="button"
+                         class="form-control btn btn-warning"
+                         value="Update Card"
+                         ng-click="showForm = true">
+              </div>
+              <form a-stripe="changeCard" name="changeCardForm" ng-show="showForm">
+                  <fieldset>
+                      <div class="form-group" ng-class="{ 'has-error' : changeCardForm.name.$invalid && changeCardForm.name.$touched }">
+                          <label>Name on card:</label>
+                          <input type="text"
+                                 class="form-control"
+                                 placeholder="Name"
+                                 ng-required="true"
+                                 name="name"
+                                 data-stripe="name">
+                      </div>
+                      <div class="form-group" ng-class="{ 'has-error' : changeCardForm.number.$invalid && changeCardForm.number.$touched }">
+                          <label>Card#:</label>
+                          <input type="text"
+                                 class="form-control"
+                                 placeholder="Card number"
+                                 ng-required="true"
+                                 name="number"
+                                 data-stripe="number">
+                      </div>
+                      <div class="form-group" ng-class="{ 'has-error' : changeCardForm.cvc.$invalid && changeCardForm.cvc.$touched }">
+                          <label>CVC:</label>
+                          <input type="text"
+                                 class="form-control"
+                                 placeholder="Security code"
+                                 ng-required="true"
+                                 name="cvc"
+                                 data-stripe="cvc">
+                      </div>
+                      <div class="form-group" ng-class="{ 'has-error' : changeCardForm.exp-month.$invalid && changeCardForm.exp-month.$touched }">
+                          <label>Expiry Month:</label>
+                          <input type="text"
+                                 class="form-control"
+                                 placeholder="Security code"
+                                 ng-required="true"
+                                 name="exp-month"
+                                 data-stripe="exp-month">
+                      </div>
+                      <div class="form-group" ng-class="{ 'has-error' : changeCardForm.exp-year.$invalid && changeCardForm.exp-year.$touched }">
+                          <label>Expiry Year:</label>
+                          <input type="text"
+                                 class="form-control"
+                                 placeholder="Security code"
+                                 ng-required="true"
+                                 name="exp-year"
+                                 data-stripe="exp-year">
+                      </div>
+                  </fieldset>
+                  <p class="section-danger">{{cardError}}</p>
+                  <button class="form-control btn-default" type="submit">Save</button>
+              </form>
+          </div>
+        </div>
+
+	</div>
+</div>
+

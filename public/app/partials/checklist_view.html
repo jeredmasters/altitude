@@ -1,0 +1,16 @@
+
+
+    <div class="panel panel-tight-first">
+      <h3>{{scaffoldTitle}}</h3>
+      <h4>{{user_fullname}}</h4>
+    </div>
+    <div class="panel panel-tight">
+      <table class="table table-striped">
+        <tr ng-repeat="field in fields">
+          <td><strong>{{field.title}}: </strong>{{field.description}}</td>
+          <td style="min-width: 100px;">
+            <div  a-input="field.type" a-field-data="field" ng-Model="field.value" a-style='display'></div>
+          </td>
+        </tr>
+      </table>
+    </div>

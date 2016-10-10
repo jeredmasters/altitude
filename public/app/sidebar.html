@@ -1,0 +1,29 @@
+<div class="scrollable">
+  <h1 class="scrollable-header app-name">Altitude <small>{{version}}</small></h1>  
+  <div class="scrollable-content">
+    <div class="list-group" ui-turn-off='uiSidebarLeft'>
+      <a class="list-group-item" href="#/about" style="position: absolute; bottom: 70px; width: 100%;">About <i class="fa fa-chevron-right pull-right"></i></a>
+      <br/>
+      <div ng-show="currentUser">
+        <a class="list-group-item" href="#/home">Home <i class="fa fa-chevron-right pull-right"></i></a>
+        <a class="list-group-item" href="#/procedures" ng-show="false">Procedures <i class="fa fa-chevron-right pull-right"></i></a>
+        <a class="list-group-item" href="#/checklists">Checklists <i class="fa fa-chevron-right pull-right"></i></a>
+        <a class="list-group-item" href="#/equipment">Equipment <i class="fa fa-chevron-right pull-right"></i></a>
+        <a class="list-group-item" href="#/map-vector">Map <i class="fa fa-chevron-right pull-right"></i></a>
+        <a class="list-group-item" href="#/users" a-require="admin">Users <i class="fa fa-chevron-right pull-right"></i></a>
+        <a class="list-group-item" href="#/account">Account <i class="fa fa-chevron-right pull-right"></i></a>
+        <a class="list-group-item" href="#/subscription">Subscription <i class="fa fa-chevron-right pull-right"></i></a>        
+        <a class="list-group-item" href="#/signout">Sign out <i class="fa fa-chevron-right pull-right"></i></a>
+      </div>
+      <div ng-hide="currentUser">
+        <a class="list-group-item" href="#/index">Home <i class="fa fa-chevron-right pull-right"></i></a>
+        <a class="list-group-item" href="#/login">Login <i class="fa fa-chevron-right pull-right"></i></a>
+        <a class="list-group-item" href="#/newprofile">New Profile <i class="fa fa-chevron-right pull-right"></i></a>
+      </div>
+      
+      
+      
+    </div>
+    <span class="menu-copyright" onClick="alert('This software is the intellectual property of Jered Masters (trading as NovaLab) and is protected under the Australian Copyright Act 1968.\n\nCopyright Jered Masters 2015\n\nABN 86 224 612 595')">&copy; NovaLab 2015</span>
+  </div>
+</div>

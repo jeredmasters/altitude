@@ -1,0 +1,191 @@
+{
+  "company": "<company>",
+  "created_by": "<user>",
+  "created_ts": "<created_ts>",
+  "type": "checklist",
+  "title": "Ebee",
+  "data": [
+    {
+      "handle": "airframe",
+      "title": "Preflight",
+      "description": "Airframe condition good? Check for cracks and defects",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "windcondition",
+      "title": "Preflight",
+      "description": "Wing condition good? Check for cracks and defects",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "propellorcondition",
+      "title": "Preflight",
+      "description": "Propeller and motor condition good? Check for damage to motor, housing and propellor, and check free spinning.",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "rubberbands",
+      "title": "Preflight",
+      "description": "Propeller and rubber bands secure?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "pitottube",
+      "title": "Preflight",
+      "description": "Pitot tube clear and secure?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "battery",
+      "title": "Preflight",
+      "description": "Battery serial number?",
+      "type": "text",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "camerachecks",
+      "title": "Preflight",
+      "description": "Camera checks - Turns on? Empty SD card? Settings correct?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "flightplan",
+      "title": "Before Take-off",
+      "description": "Flight plan uploaded acceptable and uploaded?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "waypoints",
+      "title": "Before Take-off",
+      "description": "Home and start waypoints set?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "lngdirection",
+      "title": "Before Take-off",
+      "description": "Landing direction set against wind?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "ledgreen",
+      "title": "Before Take-off",
+      "description": "Status LED green?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "areaclear",
+      "title": "Before Take-off",
+      "description": "Area clear of people and obstructions?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "takeoff",
+      "title": "Take-off",
+      "description": "Take off",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<div class="scrollable">
+  <div class="scrollable-content">
+      <h1 class="scrollable-header app-name">{{sidebarRight.title}}</h1>  
+      <div class="list-group" ui-toggle="uiSidebarRight">
+
+          <a class="list-group-item" href="{{link.href}}" ng-repeat="link in sidebarRight.links">
+              <div class="pull-left">
+                  <i class="fa fa-chevron-right"></i>
+              </div>
+              <div class="media-body">
+                  {{link.text}}
+              </div>
+          </a>
+
+      </div>
+  </div>
+</div>

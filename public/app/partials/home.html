@@ -1,0 +1,56 @@
+<div class="scrollable">  
+  <div class="scrollable-content">
+
+    <div class="list-group text-center">
+      <div class="list-group-item list-group-item-home">
+       <h1>Altitude - NovaLab <small>v{{version}}</small>
+        </h1>
+        <h3>{{user.fullname}}</h3>
+      </div>
+      <div class="list-group-item list-group-item-home media">
+          <a ng-click="runChecklist()">
+              <div>
+                  <i class="fa fa-check-square-o feature-icon text-primary"></i>
+              </div>
+              <div class="media-body">
+                  <h3 class="media-heading" >Run Checklist</h3>
+              </div>
+          </a>
+          <div class="media-body">
+              About to fly? Step through a preflight checklist.
+          </div>
+      </div>
+
+
+      <div class="list-group-item list-group-item-home media">
+          <a href="#/map-vector">
+              <div>
+                  <i class="fa fa-map feature-icon  text-primary"></i>
+              </div>
+              <div class="media-body">
+                  <h3 class="media-heading">Aerial Map</h3>
+              </div>
+          </a>
+          <div class="media-body">
+              View controlled airspace for Perth.
+          </div>
+      </div>
+
+        <div class="list-group-item list-group-item-home media">
+            <a href="#/subscription">
+                <div>
+                    <i class="fa fa-certificate feature-icon  text-primary"></i>
+                </div>
+                <div class="media-body">
+                    <h3 class="media-heading">Subscription</h3>
+                </div>
+            </a>
+            <div class="media-body">
+                {{subscriptionText}}
+            </div>
+        </div>
+
+    </div>
+
+  </div>
+</div>

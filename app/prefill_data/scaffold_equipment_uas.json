@@ -1,0 +1,28 @@
+{
+  "company": "<company>",
+  "created_by": "<user>",
+  "created_ts": "<created_ts>",
+  "type": "equipment",
+  "title": "UAS",
+  "data": [
+    {
+      "handle": "type",
+      "title": "Type",
+      "description": "",
+      "type": "dropdown",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "label": "Fixed wing",
+          "value": "fixedwing"
+        },
+        {
+          "label": "Multirotor",
+          "value": "multirotor"
+        }
+      ]
+    }
+  ]
+
+}

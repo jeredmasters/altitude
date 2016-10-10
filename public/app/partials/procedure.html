@@ -1,0 +1,60 @@
+<div ui-content-for="title">
+	<span>Procedure</span>
+</div>
+
+<div class="scrollable">
+	<div class="scrollable-content section">
+
+		<div class="panel panel-tight-first">
+			<h3>{{scaffoldTitle}}</h3>
+		</div>
+		<div class="panel panel-tight">
+			<div class="col-xs-12">
+				<h3>Project Name</h3>
+				<input class="form-control" type="text" ng-model="procedure_title"/>
+				<input type="button" value="save" class="btn" ng-click="saveTitle()" ng-class='{"btn-primary" : (procedure.title == null)}'/>
+			</div>
+			<br>
+			<hr>
+			<div ng-repeat="field in scaffold.data">
+				<div class="col-xs-8">
+					<h4>{{field.title}}</h4>
+					<p>{{field.description}}</p>
+				</div>
+				<div class="col-sx-4">
+					<button ng-click="runField(field)" ng-enabled="procedure.title != null" class="btn btn-lg" ng-class="{'btn-primary': (procedure.data[field.handle] != null)}">{{(procedure.data[field.handle] == null ? "Perform" : "View")}}</button>
+					<p ng-show="procedure.data[field.handle] != null" >{{(procedure.data[field.handle] == null ? "" : procedure.data[field.handle].summary)}}</p>
+				</div>
+				<hr>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div ui-content-for="modals">
+
+	<div class="modal modal-overlay" ui-if='modal2' ui-state='modal2'>
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button class="close" ui-turn-off="modal2">&times;</button>
+					<h4 class="modal-title">Procedure Form</h4>
+				</div>
+				<div class="modal-body">
+					<div ng-repeat="form_field in form_fields">
+						<label>{{form_field.title}}</label>
+						<div class="text-center">
+							<ng-include src="'partials/form/inline/'+form_field.type+'.html'" ng-show="form_data == null"></ng-include>
+							<label ng-show="form_data != null">{{(form_data ? form_data[form_field.handle] : "")}}</label>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button ui-turn-off="modal2" class="btn btn-default">Close</button>
+					<button ui-turn-off="modal2" class="btn btn-primary" ng-click="saveForm()"  ng-show="form_data == null">Save changes</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>

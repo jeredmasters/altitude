@@ -1,0 +1,32 @@
+[
+  {
+    "outputFileName": "public/app/js/app.js",
+    "inputFiles": [
+      "public/app/js/angular/main.js",
+      "public/app/js/angular/route.js",
+      "public/app/js/angular/filters/*",
+      "public/app/js/angular/services/*",
+      "public/app/js/angular/directives/*",
+      "public/app/js/angular/controllers/*",
+      "public/app/js/regular/*"
+    ]
+  },
+  {
+    "outputFileName": "public/app/js/vendor.js",
+    "inputFiles": [
+      "public/app/js/vendor/es5-shim.min.js",
+      "public/app/js/vendor/es5-sham.min.js",
+      "public/app/js/vendor/angular.min.js",
+      "public/app/js/vendor/mobile-angular-ui.js",
+      "public/app/js/vendor/date.format.js",
+      "public/app/js/vendor/angular-route.min.js",
+      "public/app/js/vendor/jquery-1.11.3.min.js",
+      "public/app/js/vendor/ngStorage.js",
+      "public/app/js/vendor/ng-map.min.js",
+      "public/app/js/vendor/angular-ui-tree.js",
+      "public/app/js/vendor/angular.bootstrap.js",
+      "public/app/js/vendor/angular-md5.js",
+      "public/app/js/vendor/angular-wizard.js"
+    ]
+  }
+]

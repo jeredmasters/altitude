@@ -1,0 +1,44 @@
+<div ui-content-for="title">
+	<span>Edit User</span>
+</div>
+
+<div class="scrollable">
+	<div class="scrollable-content section">
+			<button class="btn btn-warning btn-block" ng-click="loginAs()" require="set|superuser">
+				Login in as {{userData.fullname}}
+			</button>
+		<form role="form">
+			<fieldset>
+				<div class="form-group">
+					<label>Fullname</label>
+					<input type="text"
+					ng-model="userData.fullname"
+					class="form-control"
+					placeholder="Full name">
+				</div>
+				<div class="form-group">
+					<label>Email</label>
+					<input type="email"
+					ng-model="userData.email"
+					class="form-control"
+					placeholder="Email">
+				</div>
+			</fieldset>
+			<br>
+			<hr>
+			<br>
+			<button class="btn btn-primary btn-block" ng-click="saveUser()">
+				Save
+			</button>
+			
+			<br>
+			<br>
+			<button class="btn btn-danger btn-block" ng-click="deleteUser()">
+				Delete
+			</button>
+
+
+		</form>
+	</div>
+</div>
+

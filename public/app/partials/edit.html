@@ -1,0 +1,149 @@
+<style>
+	.question input, .question select{
+		color:#000;
+	}
+	.angular-ui-tree-placeholder{
+display: block;
+  height: 35px !important;
+  clear: both;
+  background-color: #eee;
+	}
+	h4{
+		margin-top: 14px;
+    margin-bottom: 1px;
+	}
+</style>
+<div ui-content-for="title">
+  <span>{{action}} {{typeName}} : {{scaffold.title}}</span>
+</div>
+
+
+<!-- The dnd-list directive allows to drop elements into it.
+	The dropped data will be added to the referenced list -->
+
+
+<div ui-tree class="section">
+<div class="scrollable ng-scope">
+  <div ui-tree-nodes="" ng-model="models" class="container-fluid section section-break scrollable-content">
+<div>
+<div>
+<div class="form-group">
+<h3>Title</h3>
+<input class="form-control" type="text" ng-model="scaffold.title" placeholder="Title" />
+</div>
+
+</div>
+<hr>
+	<div style="overflow: auto">
+		<h3>Fields</h3><br/>
+		<form name="editScaffold" novalidate>
+    <div ng-repeat="item in models" ui-tree-node class="question">
+    	
+
+
+			<div class="btn btn-default" style="width: 100%;" ng-click="isOpen[$index] = !isOpen[$index]">
+				<i ui-tree-handle class="pull-left fa fa-bars fa-2x"></i> <strong>{{item.title}}</strong> : {{item.description | limitTo : 20}}... <i class="pull-right fa fa-2x" ng-class="{'fa-angle-down': isOpen[$index], 'fa-angle-right': !isOpen[$index]}"></i>
+			</div>
+
+			<div collapse="!isOpen[$index]">
+				<div class="well well-lg" style="overflow: auto">
+
+					
+					<h4>Title</h4>
+					<input	type="text"
+							class="form-control"
+							ng-model="item.title" 
+							ng-required="true"
+							name="title{{$index}}"
+							ng-class="{ 'has-error' : editScaffold['title' + $index].$invalid }"
+							/>
+					<span ng-click="openHandle[$index] = !openHandle[$index]" class="text-primary pull-right" style="cursor:pointer">handle</span>
+					<div ng-show="openHandle[$index]">
+						<h4 style="display:inline-block">Handle</h4>
+						
+						<help title="Field Handles">
+							Handles are used to link questions with answers. For the most part this can be left to automatically manage itself. You would only change this to connect a question with some old answers which used to be matched with a different question.
+						</help>
+						<div class="form-group" ng-class="{ 'has-error' : editScaffold['handle' + $index].$invalid && editScaffold['handle' + $index].$touched }">
+						<input	type="text"
+								class="form-control" 
+								ng-model="item.handle"
+								ng-pattern="/^[a-zA-Z0-9]*$/"
+								name="handle{{$index}}"/>
+						<p ng-show="editScaffold['handle' + $index].$invalid && editScaffold['handle' + $index].$touched" class="help-block">Alhpanumeric characters only.</p>
+						</div>
+						
+					</div>
+					<h4>Description</h4>
+					<input class="form-control" ng-model="item.description"/>
+					<h4>Type</h4>
+					<select class="form-control" ng-model="item.type" name="type">
+						<option value="text">Text</option>
+						<option value="buttons">Buttons</option>
+						<option value="buttonsvertical">Buttons Vertical</option>
+						<option value="number">Number</option>
+						<option value="dropdown">Dropdown</option>
+						<option value="textarea">Text Area</option>
+						<option value="timer">Timer</option>
+					</select>
+					<div ng-show="['buttons','buttonsvertical','dropdown'].indexOf(item.type) != -1">
+						<h4>Options</h4>
+						<select class="form-control" ng-model="item.source_type">
+							<option value="import">Import</option>
+							<option value="custom">Custom</option>
+						</select>
+						<div ng-show="item.source_type == 'import'">
+							<strong>From</strong><help title="Import">This is used to import a list of equipment.<br> If you've not created any equipment types this list will be empty</help>
+							<select class="form-control" ng-model="item.source">
+								<option ng-repeat="import in importable" value="{{import.value}}">{{import.label}}</option>
+							</select>
+						</div>
+						<div ng-show="item.source_type == 'custom'">
+							<table>
+								<tr><th>Label</th><th>Value</th></tr>
+							<tr ng-repeat="option in item.data">
+								<td><input  class="form-control" ng-model="option.label" ng-change="option.value = option.label"/></td>
+								<td><input  class="form-control" ng-model="option.value"/></td>
+							</tr>
+							</table>
+							<input type='button' class="btn" value="+" ng-click="item.data.push({value:'',label:''})"/>
+						</div>
+					</div>
+					<br>
+					<div>
+						<button class="btn btn-danger pull-right" ng-click="deleteField($index)">Delete</button>
+					</div>
+				</div> 
+			</div>
+
+
+		
+
+		</div>
+		</form>
+		</div>
+		<help title="{{typeName}} Fields">
+			This is where all the fields are listed and are editiable.<br/>
+			(This is not a list of things belonging to an equipment type or checklist.)<br/>
+			<br/> 
+			Each field has:<br/>
+			<strong>Title</strong><br/>
+			The main text asscioated with the field.<br/>
+			<strong>Description</strong><br/>
+			An optional description for the field.<br/>
+			<strong>Type</strong><br/>
+			How the field is completed by the user.<br/>
+			<strong>Options</strong><br/>
+			If the field type selected requires options (eg dropdown or buttons), then where those options come from must be selected.<br/>
+			- Import: this will import a list of names from an equipment type.<br>
+			- Custom: this will use a custom list of options.<br>
+		</help>
+
+	<hr>
+
+	<button class="form-control btn-primary" ng-click="addItem()">Add Field</button><br>
+	<button class="form-control btn-primary" ng-click="saveChecklist()">Save</button><br>
+	<button class="form-control btn-danger" ng-click="deleteChecklist()" ng-show="!newscaffold">Delete</button><br>
+</div>
+</div>
+</div>

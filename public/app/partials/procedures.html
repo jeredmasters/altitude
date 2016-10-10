@@ -1,0 +1,48 @@
+<div ui-content-for="title">
+	<span>Checklists</span>
+</div>
+
+<div class="scrollable">
+	<div class="container-fluid section section-break scrollable-content" id="toggleExample">
+		<div class="btn-group justified nav-tabs">
+			<span ng-click="runChecklist()" class="btn btn-default">
+				Begin Procedure
+			</span>
+			<span ng-click="editChecklists()" class="btn btn-default">
+				Edit Procedure
+			</span>
+		</div>
+		<hr>
+
+
+		<ul class="nav nav-tabs" ui-state='activeTab' ui-default='1'>
+			<li ui-class="{'active': activeTab == 1}">
+				<a ui-set="{'activeTab': 1}">My Procedures</a>
+			</li>
+			<li ui-class="{'active': activeTab == 2}" require="get|object.checklist.*">
+				<a ui-set="{'activeTab': 2}">All Procedures</a>
+			</li>
+		</ul>
+
+		<div ui-if="activeTab == 1">
+			<div class="scrollable-content">
+				<div class="list-group">
+					<a ng-repeat="procedure in myProcedures" href="#/procedure/{{procedure._id}}" class="list-group-item">
+		{{ procedure.title }} <i class="fa fa-chevron-right pull-right"></i>
+	  </a>
+				</div>
+			</div>
+		</div>
+
+		<div ui-if="activeTab == 2" require="get|object.procedure.*">
+			<div class="scrollable-content">
+				<div class="list-group">
+					<a ng-repeat="scaffold in allProcedures" href="#/procedure/{{checklist._id}}" class="list-group-item">
+		{{ scaffold.title }} <i class="fa fa-chevron-right pull-right"></i>
+	  </a>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>

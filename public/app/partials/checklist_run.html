@@ -1,0 +1,40 @@
+<h2>{{scaffold_title}}</h2>
+
+<div class="progress">
+	<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="{{currentPage}}" aria-valuemin="0" aria-valuemax="{{totalItems}}" style="width: {{percent}}%">
+		<span class="sr-only">{{percent}}% Complete</span>
+	</div>
+</div>
+
+<div ng-repeat="(index,currQuestion) in questions" ng-show="currentPage == index">
+	
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h2 style="font-size:2em; min-height: 40px">{{currQuestion.title}}</h2>
+			<p style="font-size:1.5em;min-height: 100px">{{currQuestion.description}}</p>
+		</div>
+	</div>
+
+			<div style="text-align:center;min-height: 82px;border: #000 solid 2px;padding: 15px;border-radius: 5px;overflow: auto; margin-bottom: 10px;">
+				<div a-input="currQuestion.type" a-field-data="currQuestion" ng-model="formData[currQuestion.handle]" a-click="nextPage()" a-style='fill'></div>
+			</div>
+
+	
+</div>
+
+<div ng-show="currentPage >= questions.length">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h2 style="font-size:1.8em; min-height: 40px">Finished</h2>
+			<p style="font-size:1.5em;min-height: 100px"></p>
+		</div>
+	</div>
+	<div ng-animate="'animate'">
+		<div style="text-align:center">
+			<button class="btn btn-primary btn-block" ng-click="saveForm()">Save</button>
+		</div>
+	</div>
+
+</div>
+
+<button class="btn btn-primary btn-lg pull-left" value="Next" ng-click="prevPage()"><i class="fa fa-arrow-circle-o-left"></i> Back</button>

@@ -1,0 +1,36 @@
+<div ui-content-for="title">
+  <span>Users</span>
+</div>
+
+<div class="scrollable" ui-state="searchBar">
+ <div class="container-fluid section section-break scrollable-content" id="toggleExample">
+    <div class="btn-group justified nav-tabs">
+      <a href="#/sendinvite" class="btn btn-primary">
+          Send Invite
+      </a>       
+    </div>
+<hr>
+    <div class="list-group">
+
+        <div ng-repeat="user in users" class="list-group-item" style="padding: 0">
+            <div ng-click="isOpen[$index] = !isOpen[$index]" style="padding: 10px; cursor: pointer;">
+                <i class="fa fa-user"></i> {{ user.fullname }} <i class="fa pull-right" ng-class='{"fa-chevron-right":(!isOpen[$index]), "fa-chevron-down":(isOpen[$index])}'></i>
+            </div>
+            <div collapse="!isOpen[$index]" style="overflow: auto;">
+                <div class="col-xs-1"></div>
+                <div class="col-xs-11">
+                    <div>{{ user.email }}</div>
+                    <br />
+                    <div class="btn-group btn-group-justified">
+                        <a class="btn btn-primary" href="#/edituser/{{user.key}}">
+                            Edit
+                        </a>
+                    </div>
+                    <br />
+                </div>
+            </div>
+        </div>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,57 @@
+<div ui-content-for="title">
+  <span>Forms</span>
+</div>
+
+<div class="scrollable">
+ <div class="scrollable-content section">
+   
+  <form role="form" ng-submit='login()'>
+    <fieldset>
+      <legend>Login</legend>
+        <div class="form-group has-success has-feedback">
+          <label>Email</label>
+          <input type="text"
+                 ng-model="logindata['email']"
+                 class="form-control"
+                 placeholder="Email">
+        </div>
+
+        <div class="form-group">
+          <label>Password</label>
+          <input type="password" 
+                 class="form-control"
+                 placeholder="Password"
+                 ng-model="logindata['password']">
+        </div>
+        <div class="form-group" ng-show="(loginResponse != '')">
+            <div class="alert alert-danger">
+                <span>{{loginResponse}}</span>
+            </div>
+            
+        </div>
+    </fieldset>
+    <hr>
+
+    <button class="btn btn-primary btn-block">
+      Login
+    </button>
+
+    <div ui-content-for="navbarAction">
+      <a class='btn' ng-click='login()'>Login</a>
+    </div>
+
+  </form>
+
+<div ng-show="false">
+  								<p><a class="btn btn-lg form-square btn-wide" href="#/createuser">Create New User</a></p>
+								<p><a class="btn btn-lg form-square btn-wide" href="http://{{domain}}/auth/google?phonegap={{isPhoneGap_str}}"><i class="fa fa-google-plus-square"></i> Sign in with Google+</a></p>
+								<p><a class="btn btn-lg form-square btn-wide" href="http://{{domain}}/auth/facebook?phonegap={{isPhoneGap_str}}"><i class="fa fa-facebook-square"></i> Sign in with Facebook</a></p>
+		
+						<p><a class="btn btn-lg form-square btn-wide" href="http://{{domain}}/auth/linkedin?phonegap={{isPhoneGap_str}}"><i class="fa fa-linkedin-square"></i> Sign in with Linkedin</a></p>
+</div>
+ </div>
+</div>
+
+
+
+

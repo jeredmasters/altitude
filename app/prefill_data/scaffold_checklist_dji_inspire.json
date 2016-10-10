@@ -1,0 +1,250 @@
+{
+    "company": "<company>",
+    "created_by": "<user>",
+    "created_ts": "<created_ts>",
+    "type": "checklist",
+    "title": "Inspire Preflight",    
+    "data": [
+        {
+            "handle": "transmitterbox",
+            "title": "Remove Transmitter from box",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "routeron",
+            "title": "Turn router On",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "transmitteron",
+            "title": "Turn Transmitter On",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "toggleup",
+            "title": "Toggle switches full-up",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "videoon",
+            "title": "Video Monitor On",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "inspirecase",
+            "title": "Remove Inspire from case",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "gimballock",
+            "title": "Remove gimbal lock and lense cap",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "microsd",
+            "title": "Insert Micro SD card",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "insertbattery",
+            "title": "Insert Inspire battery",
+            "description": "",
+            "type": "dropdown",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "1",
+                    "label": "Battery #1"
+                },
+                {
+                    "value": "1",
+                    "label": "Battery #2"
+                },
+                {
+                    "value": "1",
+                    "label": "Battery #3"
+                }
+            ]
+        },
+        {
+            "handle": "safelaunch",
+            "title": "Place Inspire in safe launch location",
+            "description": "Remember this will be it's home location too.",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "inspireon",
+            "title": "Turn on Inspire",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "connectwifi",
+            "title": "Wifi connection to Monitor",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "setupphone",
+            "title": "Setup phone app",
+            "description": "Load and connect to camera, empty SD card",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "cameraup",
+            "title": "Turn camera to full up",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "satellite",
+            "title": "Wait for satellite connections",
+            "description": "",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "checkbattery",
+            "title": "Check battery levels",
+            "description": "Inspire, phone, transmitter",
+            "type": "buttons",
+            "source": "",
+            "source_type": "custom",
+            "data": [
+                {
+                    "value": "OK",
+                    "label": "OK"
+                }
+            ]
+        },
+        {
+            "handle": "takeoff",
+            "title": "Take off",
+            "description": "Start video recording (optional)",
+            "type": "timer",
+            "source": "",
+            "source_type": "custom",
+            "data": []
+        }
+    ]
+}

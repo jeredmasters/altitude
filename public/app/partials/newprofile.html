@@ -1,0 +1,181 @@
+<div ui-content-for="title">
+    <span>New Profile</span>
+</div>
+
+<div class="scrollable">
+
+    <div class="scrollable-content section">
+        <div ng-hide="complete">
+            <wizard on-finish="createProfile()">
+                <wz-step wz-title="Disclaimer" canexit="exitValidation" class="animated fadeInRight">
+                    <p>
+                        ! This software is currently in Beta release !
+                    </p>
+                    <p>
+                        <strong>Subscription Costs</strong><br />
+                        This Beta version comes with no subscription or licensing fees, however in the future when the beta phase is finished a low cost subscription model will be introduced.
+                    </p>
+                    <p>
+                        <strong>Beta Program</strong><br />
+                        By creating an account during the beta phase you are joining the Beta Program. <br />
+                        Members of the Beta Program have early access to new features and discounts on membership subscription in the future (and potentially free membership depending on the size of the company). <br />
+                    </p>
+                    <p>
+                        <strong>Terms:</strong><br />
+                        <ul>
+                            <li>This beta software is provided as is and comes with no warranty or guarantee whatsoever.</li>
+                            <li>Despite the no guarantee, NovaLab strives to provide a good user experience and will always attempt to maintain the data entered in the system and prevent data loss.</li>
+                            <li>By joining the Beta Program you agree to the collection of anonymous usage data for the purpose of improving the software and services.</li>
+                            <li>Your personal data is stored securely and will never be shared with third parties without your express consent.</li>
+                        </ul>
+                    </p>
+                    <p>
+                        <strong>NovaLab and it's related entities are not resopnsable for any damages incurred while using this software including but not limited to: hardware damage or wear and tear, legal or civil damages or fines, personal liabilities.</strong>
+                    </p>
+                    <p>
+                        This software is the intellectual property of Jered Masters (trading as NovaLab) and is protected under the Australian Copyright Act 1968. <br>
+                        ABN 86 224 612 595
+                    </p>
+                </wz-step>
+                <wz-step wz-title="Plan" canexit="exitValidation" wz-data="plan" class="animated fadeInRight">
+                    <div class="form-group">
+                        <label>What plan would you like to try?</label>
+                        <div class="top-md">
+                            <label class="btn btn-info" style="text-align: left;">
+                                <input type="radio"
+                                       ng-model="data.plan"
+                                       value="free"
+                                       name="plan"
+                                       ng-required="!data.plan">
+                                <b>Free</b>
+                                <p>Better for hobbyists</p>
+                            </label><br />
+                        </div>
+                        <div class="top-md">
+                            <label class="btn btn-warning" style="text-align: left;">
+                                <input type="radio"
+                                       ng-model="data.plan"
+                                       value="basic"
+                                       name="plan"
+                                       ng-required="!data.plan">
+                                <b>Pro Trial</b>
+                                <p>Better for commercial operators</p>
+                                <p>30 day trial, AUD $9.95/month</p>
+                            </label><br />
+                        </div>
+                    </div>
+                </wz-step>
+                <wz-step wz-title="Operator" canexit="exitValidation" wz-data="[operation]" class="animated fadeInRight">
+                    <div class="form-group">
+                        <label>What type of operator are you?</label><br />
+                        <div class="top-md">
+                            <label class="btn btn-default">
+                                <input type="radio"
+                                       ng-model="data.operation"
+                                       value="recreational"
+                                       name="operation">
+                                Recreational
+                            </label>
+                        </div>
+                        <div class="top-md">
+                            <label class="btn"
+                                   ng-class="{ 'disabled' : (data.plan == 'free'), 'btn-danger' : (data.plan == 'free'), 'btn-default' : (data.plan != 'free')}">
+                                <input type="radio"
+                                       ng-model="data.operation"
+                                       value="commercial"
+                                       name="operation"
+                                       ng-disabled="data.plan != 'basic'">
+                                Commercial
+                            </label>
+                        </div>
+                    </div>
+                </wz-step>
+                <wz-step wz-title="Units" class="animated fadeInRight">
+                        <label>Do you use any of these?</label>
+                        <div class="top-md" ng-show="data.operation == 'recreational'" ng-repeat="unit in recreational_units">
+                            <label class="btn btn-default">
+                                <input type="checkbox" checklist-model="data.units" checklist-value="unit.id">
+                                {{unit.text}}
+                            </label>
+                        </div>
+                        <div class="top-md" ng-show="data.operation == 'commercial'" ng-repeat="unit in commercial_units">
+                            <label class="btn btn-default">
+                                <input type="checkbox" checklist-model="data.units" checklist-value="unit.id">
+                                {{unit.text}}
+                            </label>
+                        </div>
+                </wz-step>
+                <wz-step wz-title="Details" canexit="exitValidation" class="animated fadeInRight">
+                    <div class="form-group" ng-class="{ 'has-error' : createProfileForm.company.$invalid && createProfileForm.company.$touched }" ng-show="data.operation == 'commercial'">
+                        <label>Company Name:</label>
+                        <input type="text"
+                                ng-model="data.company"
+                                class="form-control"
+                                placeholder="Company"
+                                ng-required="true"
+                                name="company">
+                    </div>
+                    <div class="form-group" ng-class="{ 'has-error' : createProfileForm.name.$invalid && createProfileForm.name.$touched }">
+                        <label>Your Name:</label>
+                        <input type="text"
+                                ng-model="data.name"
+                                class="form-control"
+                                placeholder="Full Name"
+                                ng-required="true"
+                                name="name">
+                    </div>
+                    <div class="form-group" ng-class="{ 'has-error' : createProfileForm.email.$invalid && createProfileForm.email.$touched }">
+                        <label>Your Email:</label>
+                        <input type="email"
+                                ng-model="data.email"
+                                class="form-control"
+                                placeholder="Email"
+                                ng-required="true"
+                                name="email">
+                    </div>
+                    <div class="form-group" ng-class="{ 'has-error' : createProfileForm.password.$invalid && createProfileForm.password.$touched }">
+                        <label>Password:</label>
+                        <input type="password"
+                                class="form-control"
+                                ng-model="data.password"
+                                placeholder="Password"
+                                ng-required="true"
+                                name="password">
+                    </div>
+                    <div class="form-group" ng-class="{ 'has-error' : createProfileForm.password.$invalid && createProfileForm.password.$touched }">
+                        <label>Confirm Password:</label>
+                        <input type="password"
+                                class="form-control"
+                                ng-model="data.passwordConfirm"
+                                placeholder="Confirm Password"
+                                ng-required="true"
+                                name="passwordConfirm">
+                    </div>
+                </wz-step>
+            </wizard>
+        </div>
+        
+   
+
+        <div ng-show="complete">
+            <div class="panel panel-default">
+                <div class="panel-heading" style="font-size: 2em;">Thank you</div>
+                <div class="panel-body">
+                    
+                    <p>We're almost done creating your account.</p>
+                    <p>We've sent you an email with a link to confirm your email address.</p>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading" style="font-size: 2em;">Get started</div>
+                <div class="panel-body">
+                    <p>For now you can get started using Altitude by going to the home page:</p>
+                    <a class="btn btn-primary" ng-click="goHome()">
+                        Home
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

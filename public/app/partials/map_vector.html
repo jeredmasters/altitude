@@ -1,0 +1,160 @@
+<div ui-content-for="title">
+	<span>Map</span>
+</div>
+
+<div class="section" style="height: 100%">
+	<map zoom="10" center="-31.938548,115.967249" style="height: 100%">
+		<shape id="$index" ng-repeat="(id,cir) in circles" name="circle" stroke-color="{{getColor(cir.size)}}" stroke-opacity="0.8" stroke-weight="2" fill-color="{{getColor(cir.size)}}" fill-opacity="0.45" center="[{{cir.lat}},{{cir.long}}]" radius="5556" class="ng-scope" on-click="showAirport(cir,$index)">
+
+		</shape>
+        <marker position="{{me.lat}},{{me.long}}" title="Hello World!" draggable="true" on-dragend="markerDropped()"></marker>
+	</map>
+</div>
+
+<div ui-content-for="modals">
+	<div class="modal modal-overlay animated fadeInUp" ui-if='modal_disclaimer' ui-state='modal_disclaimer'>
+
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button class="close" ui-turn-off="modal_disclaimer">&times;</button>
+					<h4 class="modal-title">Map Disclaimer</h4>
+				</div>
+				<div class="modal-body">
+					<p>
+						This map is an aproximate reference intended to be used with an existing knowledge of flight requirements and is not an exhaustive list of flight area restrictions.
+					</p>
+					<p>
+						Information provided by this map is not admissable in a court of law, nor does it make operators exempt from flight restrictions due to being unaware of the restriction in their local area.
+					</p>
+					<p>
+						This map is not to be relied upon or used in an emergency situation and carries no guarantee or warranty at all.
+					</p>
+					<p>
+						All users of this map do so at their own risk and should be well informed of any flight requirements applicable to them before consulting this map.
+					</p>
+				</div>
+				<div class="modal-footer">
+					<button ui-turn-off="modal_disclaimer" class="btn btn-primary" ng-click="hideModal()">I Agree</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+    <div class="modal modal-overlay animated fadeInUp" ui-if='modal_mapHelp' ui-state='modal_mapHelp'>
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button class="close" ui-turn-off="modal_mapHelp">&times;</button>
+                    <h4 class="modal-title">Map Help</h4>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        This map shows the airports in Australia. Each airport has a radius of controlled airspace around it. The airports (and airspace) are colour-coded to show their size and flight requirements.
+                    </p>   
+                    <p>
+                        Click and drag the red marker to where you will be flying to see the airports in the area.
+                    </p> 
+                    <p>
+                        Click on a coloured circle to see the airport information and flight requirements.
+                    </p>                 
+                </div>
+                <div class="modal-footer">
+                    <button ui-turn-off="modal_mapHelp" class="btn btn-primary">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+   
+    <div class="modal" ui-if='modal_info' ui-state='modal_info'>
+        <div class="modal-backdrop in"></div>
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button class="close" ui-turn-off="modal_info">&times;</button>
+                    <h4 class="modal-title"><i class="fa fa-plane fa-lg" style="color:{{getColor(airport.size)}}"></i> {{airport.name}}</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="well well-sm" style="{{getStyle(airport.size)}};">
+                        {{getMessage(airport.size)}}
+                    </div>
+                    <table>
+                        <tr>
+                            <td>Name:</td>
+                            <td>{{airport.name}}</td>
+                        </tr>
+                        <tr>
+                            <td>City:</td>
+                            <td>{{airport.city}}</td>
+                        </tr>
+                        <tr>
+                            <td>Size:</td>
+                            <td>{{airport.size}}</td>
+                        </tr>
+                        <tr>
+                            <td>ICAO:</td>
+                            <td>{{airport.icao}}</td>
+                        </tr>
+                        <tr>
+                            <td>IATA:</td>
+                            <td>{{airport.iata}}</td>
+                        </tr>
+                        <tr>
+                            <td>Lat:</td>
+                            <td>{{airport.lat}}</td>
+                        </tr>
+                        <tr>
+                            <td>Long:</td>
+                            <td>{{airport.long}}</td>
+                        </tr>
+                        <tr>
+                            <td>Runway:</td>
+                            <td>{{airport.runway}}</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" ui-turn-off="modal_info">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal animated fadeInUp" ui-if='modal_legend' ui-state='modal_legend'>
+        <div class="modal-backdrop in"></div>
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button class="close" ui-turn-off="modal_legend">&times;</button>
+                    <h4 class="modal-title">Legend</h4>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        The circles on the map are regulated airspace surrounding various airports.
+                    </p>
+                    <table class="table table-border">
+                        <tr style="{{getStyle('Closed')}}">
+                            <td>Grey</td>
+                            <td>No permission required, just be alert</td>
+                        </tr>
+                        <tr style="{{getStyle('Small')}}">
+                            <td>Yellow</td>
+                            <td>No permission required, just be alert</td>
+                        </tr>
+                        <tr style="{{getStyle('Medium')}}">
+                            <td>Orange</td>
+                            <td>Must issue NOTAM</td>
+                        </tr>
+                        <tr style="{{getStyle('Large')}}">
+                            <td>Red</td>
+                            <td>Must get area approval before flying</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" ui-turn-off="modal_legend">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

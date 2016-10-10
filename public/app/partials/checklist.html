@@ -1,0 +1,16 @@
+<div ui-content-for="title">
+  <span>{{page_title}}</span>
+</div>
+
+<div class="scrollable">
+ <div class="scrollable-content section">
+     
+     
+
+<a ng-show="(procedure_link != null)" href="{{procedure_link}}"><h2><i class="fa fa-arrow-left"></i> Procedure</h2></a>
+<a ng-show="(procedure_link == null)" href="#/checklists"><h2><i class="fa fa-arrow-left"></i> Checklists</h2></a>
+
+<ng-include src="checklist_template"></ng-include>
+
+ </div>
+</div>

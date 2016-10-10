@@ -1,0 +1,1713 @@
+Size,ICAO,IATA,City,Name,Max Runway,Lat,Long
+Small,YANG,,,West Angelas Airport,,-23.136,0
+Small,YUSL,USL,,Useless Loop Airport,,-26.167,113.4
+Small,YGAR,,,Gnaraloo Station Airport,,-23.792,113.529
+Medium,YSHK,DNM,,SHARK BAY,5545 ft,-25.894,113.577
+Small,,,,Abrolhos North Island,,-28.3,113.596
+Medium,YCAR,CVQ,,CARNARVON,5509 ft,-24.881,113.672
+Small,,,,Abrolhos Island,,-28.475,113.689
+Small,YTML,,,Tamala Airport,,-26.667,113.733
+Small,YCOY,,,Coral Bay Airport,,-23.13,113.777
+Small,YRAT,,,Abrolhos Rat Island,,-28.72,113.784
+Small,,,,Yardie Homestead,,-21.884,114.007
+Small,YEXM,EXM,,Exmouth Airport,,-22.033,114.1
+Small,YKBR,KAX,,KALBARRI,5246 ft,-27.69,114.262
+Small,YGIR,,,Giralia Airport,,-22.683,114.367
+Small,YWPL,,,Winning Pool North Airport,,-23.1,114.533
+Small,YBLB,,,Billabong Road House Airport,,-26.817,114.617
+Small,YNHP,,,Northampton Airport,,-28.35,114.683
+Medium,YGEL,GET,,GERALDTON,6499 ft,-28.796,114.707
+Small,YMIX,,,Middalya Homestead Airport,,-23.9,114.767
+Small,YYNR,,,Yanrey Airport,,-22.517,114.8
+Small,YDRA,DOX,,Dongara Airport,,-29.3,114.933
+Small,YBDX,,,Barradale Airport,,-22.863,114.963
+Small,YLEA,,,Leeman Airport,,-29.983,114.983
+Small,YTHV,,,Thevenard Island Airport,,-21.467,115
+Small,YNYG,,,Nyang Airport,,-23.033,115.033
+Small,YJNB,JUR,,Jurien Bay Airport,,-30.3,115.033
+Small,YLUW,,,Leeuwin Estate Airport,,-34.017,115.05
+Small,YMDR,,,Minderoo Station Airport,,-22,115.05
+Small,YCVS,,,Cervantes Airport,,-30.483,115.083
+Small,YBUC,,,Butch Airport,,-33.833,115.1
+Small,YMGT,,,MARGARET RIVER,3619 ft,-33.931,115.1
+Small,YOLW,ONS,,Onslow Airport,4400 ft,-21.668,115.113
+Small,YAUG,,,Augusta Airport,,-34.367,115.15
+Small,YWMY,,,Williambury Airport,,-23.867,115.15
+Small,YGSC,,,Gascoyne Junction Airport,,-25.05,115.2
+Small,YLYN,,,Lyndon Airport,,-23.633,115.233
+Small,YBLN,BQB,,BUSSELTON,5906 ft,-33.693,115.395
+Small,YBWX,BWB,,BARROW ISLAND,6234 ft,-20.864,115.406
+Small,YMEW,,,Mingenew Airport,,-29.267,115.45
+Small,YNNT,,,Nantarra Airport,,-22.533,115.5
+Small,YMWA,MXU,,Mullewa Airport,3000 ft,-28.475,115.517
+Small,YYLG,,,Yallalong Homestead Airport,,-27.426,115.518
+Medium,YRTI,RTS,,ROTTNEST ISLAND,4242 ft,-32.007,115.54
+Small,YEUD,,,Eudamulla Station Airport,,-24.45,115.6
+Small,,,,Between Lakes Private Airstrip,,-32.85,115.64
+Small,YBUN,BUY,,BUNBURY,3330 ft,-33.378,115.677
+Small,YGAD,,,Garden Island (Military) Airport,1400 ft,-32.242,115.683
+Small,,,,Preston Field - Blair Howe,,-33.019,115.701
+Small,YNAU,,,Nannup Airport,,-34.033,115.733
+Small,,,,Wheeler Field,,-32.787,115.789
+Small,,,,Tardun Christian Brothers airfield,,-28.709,115.818
+Small,YBBL,,,Billabalong Airport,,-27.417,115.833
+Small,YMUL,,,MURRAY FIELD,3750 ft,-32.508,115.842
+Small,YTHS,,,Three Springs Airport,,-29.528,115.858
+Small,YGIG,,,GINGIN,5997 ft,-31.465,115.863
+Small,YDRC,,,Dairy Creek Homestead Airport,,-25.283,115.867
+Small,YSEN,,,Serpentine Airport,3000 ft,-32.395,115.871
+Small,YCNH,,,Carnarmah Airport,,-29.683,115.883
+Small,YMDZ,,,Mardi Station Airport,,-21.2,115.983
+Small,YMSS,,,Murchison Shire Airport,,-26.917,115.983
+Small,YMRW,MWB,,Morawa Airport,3000 ft,-29.202,116.022
+Small,,,,Yuin Station,,-27.983,116.033
+Small,YRHL,,,Red Hill Station Airport,,-21.967,116.067
+Small,YEDM,,,Edmund Station Airport,,-23.75,116.1
+Small,YFCU,,,Fortescue River Airport,,-21.3,116.133
+Small,YMJM,MJP,,MANJIMUP,4016 ft,-34.265,116.14
+Small,YWEE,,,Wooleen Homestead Airport,,-27.082,116.15
+Small,,,,Northcliffe Airstrips (needs confirmation),,-34.659,116.152
+Small,YBOO,,,Catholic Agricultural College Bindoon Airstrip,,-31.34,116.188
+Small,YDGT,,,Dalgety Downs Station Airport,,-25.283,116.2
+Small,YCOI,,,Collie Airport,,-33.367,116.217
+Small,YGIF,,,Gifford Creek Station Airport,,-24.05,116.217
+Small,,,,New Norcia North,,-30.921,116.24
+Closed,,,,Avon Valley NP Airstrip,,-31.606,116.261
+Small,YGUL,,,Gullewa Airport,,-28.633,116.283
+Small,YPJI,,,Perenjori Airport,,-29.433,116.283
+Small,YPIX,,,Pia Airport,,-27.192,116.292
+Small,YPNW,,,Pannawonica Airport,,-21.617,116.317
+Small,YMGO,,,Murgoo Airport,,-27.367,116.417
+Small,YBOP,,,Boyup Brook Airport,,-33.9,116.467
+Small,YSHN,,,Shannon River Airport,,-34.75,116.483
+Small,YDVE,,,Dale River Airport,,-32.283,116.55
+Small,YMNF,,,Manfred Airport,,-26.45,116.55
+Small,YDWU,,,Dalwallinu Airport,,-30.2,116.65
+Small,YERO,,,Erong Station Airport,,-25.567,116.667
+Small,YNTM,,,Northam Airport,3000 ft,-31.63,116.683
+Small,YWPE,,,Walpole Airport,,-34.95,116.7
+Small,YWOH,,,Wongan Hills Airport,,-30.867,116.733
+Small,YBIU,,,Ballidu Airport,,-30.593,116.78
+Small,YBLD,,,Brooklands Airport,,-31.825,116.796
+Small,YYRK,,,York Airport,,-31.855,116.799
+Small,YHLM,,,Hillman Farm Airport,,-33.264,116.815
+Small,YROT,,,Rothsay Mine Airport,,-29.292,116.867
+Small,YGOM,,,Goomalling Airport,,-31.367,116.883
+Small,YLDO,,,Landor Station Airport,,-25.1,116.9
+Small,YMAU,,,Mount Augusta Airport,,-24.3,116.917
+Small,YMJE,,,Mount James Airport,,-24.617,116.933
+Small,,,,White Gum Farm,,-31.867,116.939
+Small,YBEV,,,Beverley Airport,,-32.133,116.95
+Small,YGGE,,,Golden Grove Airport,,-28.75,116.95
+Small,YLNR,,,Landor Races Airport,,-24.95,116.967
+Small,YDGR,,,Dalgaranga Airport,,-27.791,116.993
+Small,YAHD,,,Ashburton Downs Airport,,-23.383,117.033
+Small,YDON,,,Dowerin Airport,,-31.183,117.05
+Small,YPIY,,,Pingelly Airport,,-32.54,117.073
+Small,YNRG,,,Narrogin Airport,,-32.93,117.08
+Small,YKAE,,,Kalannie Airport,,-30.367,117.133
+Small,YKOJ,,,Kojonup Airport,,-33.767,117.133
+Small,YERA,,,Errabiddy Homestead Airport,,-25.5,117.167
+Small,YCUN,,,CUNDERDIN,6089 ft,-31.622,117.217
+Small,YBGD,OCM,,Boolgeeda,,-22.54,117.275
+Small,YDGA,DGD,,Dalgaranga Gold Mine Airport,,-27.83,117.316
+Small,YMUX,,,Mileura Airport,,-26.367,117.333
+Small,YWAB,,,Waldburg Homestead Airport,,-24.75,117.367
+Small,YWGN,,,Wagin Airport,,-33.333,117.367
+Small,YQDG,,,Quairading Airport,,-32,117.4
+Small,YRLE,,,Rocklea Airport,,-22.883,117.45
+Small,YCRN,,,Cranbrook Airport,,-34.283,117.55
+Small,YMCE,,,Mount Clere Homestead Airport,,-25.1,117.583
+Small,YKNG,KNI,,Katanning Airport,,-33.717,117.633
+Small,YPYF,,,Paynes Find Airport,,-29.25,117.667
+Small,YKEB,,,Kellerberrin Airport,,-31.667,117.733
+Small,YDUM,,,Dumbleyung Airport,,-33.333,117.75
+Small,,SLJ,,Solomon Aerodrome,,-22.255,117.763
+Small,YKNM,,,Koonmarra Airport,,-26.283,117.783
+Small,YCWY,COY,,Coolawanyah Airport,,-21.783,117.8
+Small,YCIG,,,Corrigin Airport,,-32.333,117.817
+Medium,YMOG,MMG,,MOUNT MAGNET,5906 ft,-28.116,117.842
+Small,YBCB,,,Bencubbin Airport,,-30.833,117.867
+Small,YBEC,,,Beacon Airport,,-30.483,117.883
+Small,YKNP,,,Kununoppin Airport,,-31.133,117.9
+Small,YCUE,CUY,,Cue Airport,6400 ft,-27.447,117.918
+Small,YYRW,,,Yarlarweelor Airport,,-25.458,117.975
+Small,YELE,,,Belele Airport,,-26.367,118.017
+Small,YGNW,,,Gnowangerup Airport,,-33.983,118.033
+Small,YMLA,,,Malina Airport,,-20.883,118.033
+Small,YMDB,,,Mundabullangana Airport,,-20.517,118.067
+Small,YBRO,,,Bruce Rock Airport,,-31.883,118.117
+Small,YTUC,,,Tuckabiana Airport,,-27.475,118.125
+Small,,,,Kulin Airport,,-32.672,118.169
+Small,,,,Stirling Range Retreat,,-34.312,118.186
+Small,,,,Lily Dutch Windmill Airstrip,,-34.225,118.216
+Small,YMVR,,,Mount Vernon Station Airport,,-24.233,118.233
+Small,YMKB,,,Mukinbudin Airport,,-30.933,118.25
+Small,YRDY,,,Reedys Airport,,-27.132,118.28
+Small,YKDN,,,Kondinin Airport,,-32.467,118.283
+Small,YMDN,,,Merredin Airport,,-31.505,118.323
+Small,YMIL,,,Milgun Airport,,-25.083,118.333
+Small,YWIT,WIT,,Wittenoom Airport,,-22.218,118.348
+Small,YFOR,,,Fortnum Airport,,-25.333,118.367
+Small,YLGC,,,Lake Grace Airport,,-33.133,118.4
+Small,YNRB,,,Narembeen Airport,,-32.117,118.417
+Small,YLGA,,,Mulga Downs Airport,,-22.107,118.471
+Medium,YMEK,MKR,,MEEKATHARRA,7156 ft,-26.612,118.548
+Small,YHSL,,,Horseshoe Lights Airport,,-25.35,118.617
+Small,YTRK,,,Turee Creek Airport,,-23.617,118.617
+Small,YWSX,,,Westonia Airport,,-31.333,118.667
+Small,YMUJ,,,Munjina Airport,,-22.366,118.681
+Small,YPLL,,,Peak Hill Airport,,-25.6,118.683
+Small,YWDC,,,Wodgina Airport,,-21.142,118.692
+Small,,,,West Angelas Airport,,-23.136,118.707
+Small,YBYA,,,Bryah Airport,,-25.533,118.733
+Small,YCWA,CJF,,Coondewanna Wa Airport,,-22.967,118.813
+Small,YOUN,,,Youanmi Airport,,-28.615,118.842
+Small,YHYD,,,Hyden Airport,,-32.433,118.867
+Small,YYDE,,,Yandee Airport,,-21.333,118.867
+Small,YJGP,,,Jerramungup Airport,,-33.9,118.9
+Small,YWRC,,,Wave Rock Airport,,-32.427,118.908
+Small,YNDG,,,Newdegate Airport,,-33.117,119
+Small,YRDM,,,Redmont Airport,,-21.967,119.017
+Small,YYUM,,,Yuinmery Airport,,-28.563,119.019
+Small,YTHR,,,Three Rivers Homestead Airport,,-25.133,119.117
+Small,YBRY,BYP,,BARIMUNYA,6168 ft,-22.674,119.166
+Small,YGPI,,,Giles Point Airport,,-23.267,119.167
+Small,YDGY,,,De Grey Homestead Airport,,-20.175,119.169
+Closed,YYCN,,,Yandicoogina Airport,,-22.76,119.227
+Small,YATY,,,Atley Airport,,-28.217,119.25
+Small,YDMF,,,Diemal Find Airport,,-29.667,119.283
+Small,YRRG,,,Rhodes Ridge Airport,,-23.108,119.333
+Small,YSCR,SQC,,Southern Cross Airport,3000 ft,-31.24,119.36
+Small,YGID,,,Gidgee Airport,,-27.27,119.405
+Small,YHIL,,,Hillside Airport,,-21.75,119.417
+Small,YPLU,,,Plutonic Airport,,-25.333,119.425
+Small,YLVY,,,Lake Varley Airport,,-32.708,119.513
+Small,YKBG,,,Koolyanobbing Range Airport,,-30.841,119.529
+Small,YMVH,,,Marvel Loch Airport,,-31.467,119.533
+Small,YBUO,,,Bulloo Downs Station Airport,,-24.017,119.567
+Small,YSAH,,,Sandhill Airport,,-22.8,119.617
+Small,YCOG,,,Coongan Airport,,-20.683,119.667
+Small,YFTA,,,Forrestania Airport,,-32.58,119.703
+Small,YBUG,,,Bulga Downs Station Airport,,-28.5,119.733
+Small,YMYI,,,Marymia Airport,,-25.093,119.755
+Small,YLKG,,,Lake King Airport,,-33.079,119.766
+Small,YMHL,,,Mount Holland Airport,,-32.118,119.768
+Small,YDME,,,Mount Dimer Airport,,-30.402,119.83
+Small,YMBL,MBB,,Marble Bar Airport,3000 ft,-21.163,119.833
+Small,YBYD,,,Bonney Downs Station Airport,,-22.267,119.883
+Small,YBOY,,,Booylgoo Springs Airport,,-27.75,119.9
+Small,YRAV,,,Ravensthorpe Airport,,-33.528,119.953
+Small,YRYH,RHL,,Roy Hill Station Airport,,-22.626,119.959
+Small,YCPG,,,Coppins Gap Airport,,-20.95,120.033
+Small,YSLV,,,Sylvania Homestead Airport,,-23.558,120.047
+Small,YDPS,,,Depot Springs Airport,,-27.883,120.083
+Small,YHPE,,,Hopetoun Airport,,-33.9,120.158
+Small,YNUL,NLL,,Nullagine Airport,3000 ft,-21.913,120.198
+Small,YNRV,RVT,,RAVENSTHORPE,5512 ft,-33.797,120.208
+Medium,YWLU,WUN,,WILUNA,5942 ft,-26.629,120.221
+Small,YABS,,,Albion Downs Airport,,-27.283,120.383
+Small,YPCS,,,Pinnacles Homestead Airport,,-28.2,120.433
+Small,YLWY,,,Lake Way Airport,,-26.945,120.47
+Small,YLAW,,,Lawlers Airport,,-28.083,120.5
+Medium,YMNE,WME,,MOUNT KEITH,5896 ft,-27.286,120.555
+Small,YJUN,,,Jundee Airport,6800 ft,-26.422,120.577
+Small,YCAI,,,Callion Airport,,-30.117,120.583
+Small,YBLU,,,Bellevue Airport,,-27.615,120.612
+Medium,YLST,LER,,LEINSTER,5906 ft,-27.843,120.703
+Small,YJIG,,,Jiggalong Mission Airport,,-23.367,120.783
+Small,YMCU,,,Mount Mcclure Airport,,-27.47,120.917
+Small,YMIS,,,Millrose Homestead Airport,,-26.4,120.95
+Small,YLOC,,,Lochinvar Airport,,-20.758,121.017
+Small,YMZI,,,Menzies Airport,,-29.667,121.017
+Small,YBWG,,,BRONZEWING,6692 ft,-27.366,121.036
+Small,YCLG,,,Coolgardie Airport,,-30.95,121.15
+Small,YSFI,,,Sandfire Airport,,-19.767,121.167
+Small,YJEY,,,Jeedamya Airport,,-29.4,121.267
+Small,YDLO,,,Darlot Airport,,-27.883,121.267
+Small,YMRS,,,Melrose Airport,,-27.933,121.3
+Small,YWNO,,,Wonganoo Airport,,-27.125,121.333
+Small,YORW,,,Orient Well Airport,,-29.199,121.438
+Small,YKOK,,,Kookynie Airport,,-29.35,121.483
+Small,YAPA,,,Anna Plains Airport,,-19.267,121.517
+Small,YLRG,,,Lorna Glen Homestead Airport,,-26.217,121.55
+Small,YERH,,,Earaheedy Airport,,-25.6,121.583
+Small,YCNF,NIF,,Camp Nifty Airport,,-21.672,121.587
+Small,YBJW,,,Banjawarn Airport,,-27.667,121.6
+Small,YKBL,,,Kambalda Airport,,-31.183,121.6
+Small,YNSM,NSM,,Norseman Airport,3000 ft,-32.21,121.755
+Small,YMLX,,,Milurie Homestead Airport,,-27.583,121.783
+Small,YMNX,,,Minura Airport,,-28.883,121.8
+Small,YLGB,,,La Grange Bay Airport,,-18.683,121.808
+Medium,YESP,EPR,,ESPERANCE,4921 ft,-33.684,121.823
+Small,YYER,,,Yerilla Airport,,-29.468,121.83
+Small,YMMI,WUI,,MURRIN MURRIN,6562 ft,-28.705,121.891
+Small,,,,Myrup fly in estate Airport,,-33.794,121.958
+Small,YWGW,,,Wongawol Airport,,-26.133,121.967
+Small,YYDM,,,Yundamindera Airport,,-29.117,122.033
+Small,YMGS,,,Mount Morgans Airport,,-28.787,122.034
+Small,YGLY,,,Glenayle Homestead Airport,,-25.283,122.05
+Small,YTCF,,,Tracies Field,,-22.317,122.067
+Small,YRUD,,,Rudal River Airport,,-22.55,122.15
+Medium,YTEF,TEF,,TELFER,6562 ft,-21.715,122.229
+Small,YWDA,WND,,Windarra Airport,,-28.475,122.242
+Small,YPOP,,,Porphyry Airport,,-29.778,122.268
+Small,YDUK,,,Duketon Airport,,-27.958,122.308
+Small,YLTN,LVO,,LAVERTON,5906 ft,-28.614,122.424
+Small,YMNW,,,Mount Weld Airport,,-28.772,122.44
+Small,YSRD,,,Sunrise Dam Airport,,-29.102,122.45
+Small,YCTC,,,Cotten Creek Airport,,-22.8,122.583
+Small,YBGB,,,Beagle Bay Airport,,-16.983,122.65
+Small,YPNI,,,Prenti Downs Airport,,-26.517,122.8
+Small,YCOS,,,Cosmo Newberry Airport,,-27.985,122.903
+Small,YLBD,,,Lombadina Airport,,-16.517,122.917
+Small,YCLQ,,,Cape Leveque Airport,,-16.398,122.932
+Small,YORL,,,Orleans Farm Airport,,-33.783,122.95
+Small,YCGI,,,Carnegie Station Airport,,-25.8,122.967
+Small,YOAP,,,One Arm Point Airport,,-16.433,123.05
+Small,YCNN,,,Coonana Airport,,-31.017,123.167
+Small,YPUN,,,Punmu Airport,,-22.067,123.167
+Small,YBWS,,,Browse Is Airport,,-14.112,123.547
+Small,YZAN,,,Zanthus Airport,,-31.033,123.567
+Small,YCTI,,,Cockatoo Island Airport,,-16.083,123.617
+Small,YBAL,,,Balladonia Airport,,-32.35,123.618
+Medium,YDBY,DRB,,DERBY,5696 ft,-17.37,123.661
+Small,YNON,,,Noondoonia Homestead Airport,,-32.283,123.667
+Small,YYRN,,,Yamarna Airport,,-28.154,123.673
+Medium,YCIN,DCN,,CURTIN,10003 ft,-17.581,123.828
+Small,YWOX,,,Woorlba Airport,,-32.4,124.033
+Small,,,,Tjukayirla Roadhouse Airstrip,,-27.155,124.585
+Small,YWEX,,,Well 33 Airport,,-22.367,124.767
+Small,YNKA,,,Noonkanbah Airport,,-18.5,124.833
+Small,YNPD,,,Napier Downs Airport,,-17.317,124.85
+Small,YKAN,,,Kanandah Airport,,-30.895,124.862
+Small,YMHT,,,Mount Hart Station Airport,,-16.82,124.908
+Small,YWDJ,,,Windjana Grove Airport,,-17.421,124.925
+Small,YDPT,,,Depot Outcamp Airport,,-31.572,125.187
+Small,YRWA,,,Rawlinna Station Airport,,-31.025,125.191
+Small,YSLG,,,Silent Grove Airport,,-17.067,125.25
+Small,YRAW,,,Rawlinna Airport,,-31,125.317
+Small,YWFD,,,Western Field Airport,,-19.283,125.417
+Small,YBYS,BVZ,,Beverley Springs Airport,3000 ft,-16.733,125.433
+Small,YTJI,,,Tjirrkarli Airport,,-26.035,125.472
+Small,YCAG,CGV,,Caiguna Airport,,-32.265,125.493
+Small,,CBC,,Cherrabun Airport,,-18.918,125.538
+Medium,YFTZ,FIZ,,FITZROY CROSSING,4265 ft,-18.182,125.559
+Small,YBGI,,,Balgair Airport,,-31.067,125.667
+Small,YMHO,MHO,,Mount House Airport,3000 ft,-17.055,125.71
+Small,YCAJ,,,Cadjebut Airport,,-18.7,125.9
+Small,YBAN,,,Mount Barnet Airport,,-16.737,125.909
+Small,YCRK,CXQ,,Christmas Creek Station Airport,,-18.883,125.917
+Small,YADD,,,Arubiddy Airport,,-31.8,125.933
+Small,YHAG,,,Haig Airport,,-31,126.083
+Small,YCKY,,,Cocklebiddy Airport,,-32.05,126.092
+Small,YMTZ,,,Mount Elizabeth Airport,,-16.433,126.1
+Small,YTTI,,,Troughton Is Airport,3000 ft,-13.752,126.148
+Small,YMNT,,,Mornington Station Airport,,-17.394,126.229
+Small,YDGN,,,Doongan Airport,,-15.4,126.3
+Small,YTST,,,TRUSCOTT MUNGALALU,5643 ft,-14.09,126.381
+Small,YDRD,DRY,,Drysdale River Airport,,-15.714,126.381
+Small,YGIB,GBV,,Gibb River Airport,3000 ft,-16.423,126.445
+Small,YWBR,,,WARBURTON,5216 ft,-26.128,126.583
+Small,YORA,,,Moonerah Airport,,-31.689,126.586
+Small,YKAL,UBU,,Kalumburu Airport,4200 ft,-14.288,126.632
+Small,YLOU,,,Louisa Downs Airport,,-18.717,126.717
+Small,YMGR,MGV,,Margaret River (Station) Airport,3000 ft,-18.622,126.883
+Small,YTAB,TBL,,Tableland Homestead Airport,,-17.283,126.9
+Small,YLGN,,,Loongana Airport,,-30.95,127.033
+Small,YMAD,,,Madura Airport,,-31.883,127.033
+Small,YTJU,,,Tjuntjuntjarra Airport,,-29.358,127.128
+Small,YFWY,,,Faraway Bay Airport,,-13.981,127.181
+Small,YBDF,BDW,,Bedford Downs Airport,,-17.287,127.463
+Small,YBIL,BIW,,Billiluna Airport,,-19.567,127.667
+Medium,YHLC,HCQ,,HALLS CREEK,4839 ft,-18.234,127.67
+Small,YJAM,,,Jameson Airport,,-25.85,127.683
+Small,YYGG,,,Yagga Yagga Airport,,-20.891,127.949
+Small,YBGO,BQW,,Balgo Hill Airport,5200 ft,-20.148,127.973
+Small,YEQO,,,El Questro Airport,,-16.008,127.975
+Small,YYAG,,,Yagga Yagga Airport,,-20.967,128.083
+Medium,YFRT,FOS,,FORREST,4984 ft,-30.838,128.115
+Small,YWYM,WYN,,WYNDHAM,5272 ft,-15.511,128.153
+Small,YMDT,,,Mundrabilla Motel Airport,,-31.827,128.23
+Small,YBSR,,,Blackstone Airport,,-25.987,128.288
+Small,YFLO,FVL,,Flora Valley Airport,,-18.283,128.417
+Small,YARG,GYL,,ARGYLE,7546 ft,-16.637,128.451
+Small,YRSK,,,Ringer Soak Airport,,-18.789,128.624
+Small,YJUK,,,Tjukurla Airport,,-24.371,128.739
+Small,YECL,EUC,,Eucla Airport,,-31.7,128.883
+Small,YNIC,NLS,,Nicholson Airport,,-18.05,128.9
+Small,YWNL,,,Wingellina Airport,,-26.067,128.95
+Small,YDVR,DKV,,Docker River Airport,3000 ft,-24.86,129.07
+Small,YWCM,,,Wilson's Camp Airport,,-20.101,129.126
+Small,YMDV,,,Mount Davies Airport,,-26.167,129.133
+Small,YNES,,,Nelson Springs Airport,,-17.3,129.283
+Small,YWTL,WLO,,Waterloo Airport,,-16.63,129.32
+Small,YKNT,,,Kintore Airport,,-23.265,129.387
+Small,YLGU,,,Legune Airport,,-15.217,129.448
+Small,YBDU,,,Birrindudu Airport,,-18.383,129.483
+Small,YHGS,,,Hughes Siding Airport,,-30.717,129.515
+Medium,YPKT,PKT,,PORT KEATS,4626 ft,-14.25,129.529
+Small,YKIL,,,Kildurk Airport,,-16.432,129.615
+Small,YTMN,,,Tanami Airport,3000 ft,-19.917,129.725
+Small,YTAN,,,Tanami Downs Airport,,-20.574,129.74
+Small,YBVY,,,Bullo River Valley Airport,,-15.467,129.767
+Small,YPUA,,,Palumpa Airport,,-14.333,129.867
+Small,YLIM,,,Limbunya Station Airport,,-17.25,129.883
+Small,YLSY,,,Mount Lindsay Airport,,-27.018,129.885
+Small,YSUJ,,,Supplejack Downs Airport,,-19.267,129.95
+Small,YAUV,AVG,,Auvergne Airport,,-15.7,130
+Small,YRBT,,,Rabbit Flat Airport,,-20.183,130.017
+Small,YRVE,,,Riveren Airport,,-17.9,130.217
+Small,YNYP,,,Nypari Airport,,-26.2,130.233
+Small,YTGT,,,The Granites Airport,,-20.548,130.347
+Small,YANJ,,,Angatja Airport,,-26.1,130.4
+Small,YOOK,,,Cook Airport,,-30.618,130.406
+Medium,YGPT,GPN,,GARDEN POINT,4314 ft,-11.402,130.422
+Small,YTBR,TBK,,Timber Creek Airport,3000 ft,-15.62,130.445
+Small,YMSF,MTD,,Mount Sanford Station Airport,,-16.978,130.555
+Small,YNRR,,,Nyrripi Airport,,-22.645,130.565
+Medium,YBTI,BRT,,BATHURST ISLAND,4823 ft,-11.769,130.62
+Small,YHBR,HUB,,Humbert River Airport,,-16.49,130.63
+Small,YHOO,HOK,,Hooker Creek Airport,5100 ft,-18.337,130.638
+Medium,YSNB,SNB,,SNAKE BAY,4734 ft,-11.423,130.654
+Small,YDLV,DLV,,Delissaville Airport,2800 ft,-12.55,130.685
+Small,YDMN,DVR,,Daly River Airport,,-13.75,130.694
+Small,YKKG,KFG,,KALKGURUNG,4101 ft,-17.432,130.808
+Small,YOKV,,,Oak Valley Airport,,-29.517,130.867
+Small,YVNS,,,Vaughan Springs Airport,,-22.333,130.867
+Small,YAAL,,,Yarralin Airport,,-16.445,130.881
+Small,YNUB,NUR,,Nullabor Motel Airport,3000 ft,-31.442,130.902
+Small,YPME,,,Palmer Airport,,-12.833,130.933
+Small,YKDM,,,Kidman Springs Airport,3000 ft,-16.117,130.953
+Small,YVRD,VCD,,Victoria River Downs Airport,3000 ft,-16.402,131.005
+Small,YBCR,,,Batchelor Airport,,-13.067,131.033
+Small,YMKT,,,Emkaytee (Unlic) Airport,,-12.617,131.05
+Small,YWAV,WAV,,Wave Hill Airport,3000 ft,-17.393,131.118
+Small,YNHV,,,New Haven Airport,,-22.728,131.145
+Small,YAMT,AMT,,Amata Airport,,-26.108,131.207
+Small,YPGH,,,Pigeon Hole Airport,,-16.81,131.219
+Small,YLBG,,,Mount Liebig Airport,,-23.243,131.26
+Small,YISV,,,Innesvale Airport,,-15.383,131.267
+Small,YCFD,CFI,,Camfield Airport,,-17.022,131.327
+Small,YKCA,,,Kings Canyon Airport,,-24.26,131.49
+Small,YOOO,,,Mooloola Homestead Airport,,-16.333,131.5
+Small,YMEI,,,Mereenie Airport,,-23.977,131.562
+Small,YMRA,,,Maralinga Airport,,-30.163,131.625
+Small,YDMR,,,Delamere Station Airport,,-15.62,131.637
+Small,YMUP,,,Mulga Park Airport,,-25.9,131.667
+Small,YKLE,,,Killarney Airport,,-16.25,131.747
+Small,YCSP,,,Curtin Springs Airport,,-25.317,131.75
+Small,YYND,YUE,,YUENDUMU,4724 ft,-22.254,131.782
+Small,YODA,,,Ooldea Airport,,-30.457,131.823
+Small,YCPD,,,Cape Don Airport,,-11.298,131.827
+Small,YPNC,,,Pine Creek Airport,,-13.833,131.833
+Small,YKCS,KCS,,Kings Creek Airport,3000 ft,-24.423,131.835
+Small,YHAA,,,Haasts Bluff Airport,3000 ft,-23.455,131.853
+Small,YSAI,,,Saipem Airport,,-23.7,131.867
+Small,YPAY,,,Papunya Airport,3000 ft,-23.247,131.903
+Small,YMDY,,,MOUNT BUNDEY,3970 ft,-12.89,131.908
+Small,YDWF,,,Delamere Range Facility Airport,,-15.747,131.92
+Small,YVSH,,,Vashon Head Airport,,-11.15,131.983
+Small,YFRG,,,Fregon Airport,3000 ft,-26.775,132.017
+Small,YUMU,,,Umuwa Airport,,-26.487,132.04
+Small,YMNN,,,Mount Denison Airport,,-22.142,132.07
+Small,YSMP,SHU,,Smith Point Airport,,-11.15,132.15
+Small,YMWE,,,Mount Wedge Airport,,-22.737,132.151
+Small,YERN,ERB,,Ernabella Airport,3800 ft,-26.263,132.182
+Small,YEMJ,,,Emu Junction Airport,,-28.633,132.183
+Small,YMNA,,,Mount Allan Airport,,-22.275,132.217
+Small,YNDR,,,Nundroo Airport,,-31.78,132.223
+Small,YARN,,,Areyonga Airport,,-24.067,132.267
+Small,YWLH,,,Wallara Ranch Airport,,-24.65,132.317
+Small,YKHG,,,Katherine Gorge Airport,,-14.389,132.393
+Small,YTPE,,,Tempe Downs Airport,,-24.382,132.423
+Small,YKEN,,,Kenmore Park Airport,,-26.333,132.467
+Small,YCKI,CKI,,Croker Island Airport,4700 ft,-11.165,132.483
+Small,YCOO,CDA,,Cooinda Airport,3000 ft,-12.903,132.532
+Small,YCNS,,,Coniston Airport,,-22.133,132.533
+Small,YMIJ,,,Minjilang Airport,3500 ft,-11.158,132.547
+Small,YIMA,,,Imanpa Airport,,-25.133,132.57
+Small,YWLA,,,Willowra Airport,,-21.277,132.623
+Small,YMBZ,,,Mount Ebenezer Airport,,-25.167,132.633
+Small,YNWT,,,Narwietooma Airport,,-23.233,132.633
+Small,YBTN,,,Barton Siding Airport,,-30.525,132.66
+Small,YEVP,,,Everard Park Airport,,-27.017,132.717
+Small,YHMB,HMG,,Hermannsburg Airport,3000 ft,-23.93,132.805
+Small,YBMY,,,Bamyili Airport,2600 ft,-14.52,132.883
+Small,YJAB,JAB,,JABIRU,4670 ft,-12.658,132.893
+Small,YMUE,,,Mount Borradale Airport,,-12.098,132.907
+Small,YCAN,,,Cannon Hill Community Airport,,-12.367,132.95
+Small,YMPK,,,Milton Park Airport,,-23.367,133
+Small,YPNG,,,Penong Airport,,-31.917,133
+Small,YOEN,OPI,,OENPELLI,4331 ft,-12.325,133.006
+Small,YANN,,,Anningie Airport,,-21.832,133.125
+Small,YMKA,,,Mararanka Homestead Airport,,-14.932,133.125
+Small,YABU,,,Amburla Airport,,-23.333,133.183
+Small,YMVG,,,Mount Cavenagh Airport,,-25.967,133.2
+Small,YHBY,,,Henbury Airport,,-24.55,133.217
+Small,YERL,,,Erldunda Airport,,-25.217,133.25
+Small,YDRL,,,De Rose Hill Airport,,-26.433,133.258
+Small,YMIB,,,Mintabie Airport,,-27.328,133.305
+Small,YNAB,,,Nabarlek Airport,,-12.308,133.313
+Small,YIDK,IDK,,Indulkana Airport,3000 ft,-26.967,133.325
+Small,YLLA,,,Mobella Airport,,-29.798,133.345
+Small,YTCY,,,Tarcoonyinna Airport,,-26.75,133.35
+Small,YGBI,GBL,,South Goulburn Is Airport,4500 ft,-11.65,133.382
+Small,YTIT,,,Ti Tree Airport,,-22.132,133.42
+Small,YWYB,,,Wynbring Airport,,-30.562,133.533
+Small,YIMP,,,Impadna Airport,,-25.15,133.583
+Small,YGDW,GTS,,Granite Downs Airport,,-26.948,133.607
+Small,YALA,MRP,,Marla Airport,3000 ft,-27.333,133.627
+Small,YGMD,,,Goomadeer Airport,,-12.1,133.667
+Small,YHGR,,,Hugh River Airport,,-24.417,133.7
+Small,YUMB,,,Umbeara Airport,,-25.747,133.702
+Medium,YCDU,CED,,CEDUNA,5709 ft,-32.131,133.71
+Small,YIDR,,,Idracowra Airport,,-25.063,133.733
+Small,YNPB,,,Napperby Airport,,-22.533,133.763
+Small,YMVY,,,Mount Valley Airport,,-14.083,133.817
+Small,YBSP,,,Bond Springs Airport,,-23.515,133.843
+Small,YBRC,,,Barrow Creek Airport,,-21.533,133.883
+Small,YTYN,,,Tieyon Airport,,-26.217,133.917
+Small,YMGG,,,Mulgathing Airport,,-30.229,133.986
+Small,YLLC,,,Lilla Creek Airport,,-25.567,134
+Small,YMYV,,,Maryvale Airport,,-24.66,134.032
+Small,YCDH,,,Cadney Homestead Airport,,-27.908,134.053
+Small,YLAM,,,Lambina Airport,,-26.913,134.058
+Small,YHDD,,,Hodgson Downs Airport,,-15.222,134.076
+Small,YWLB,,,Welbourn Hill Airport,,-27.358,134.093
+Small,YMSK,,,Mount Skinner Airport,,-22.183,134.117
+Small,YDPW,,,Deep Well Airport,,-24.3,134.133
+Small,YCWH,,,Commonwealth Hill Airport,,-29.962,134.143
+Small,YNUT,,,Nutwood Downs Airport,,-15.817,134.15
+Small,YWIB,,,Mount Willoughby Airport,,-27.983,134.15
+Small,YHSB,,,Horseshoe Bend Airport,,-25.217,134.267
+Small,YKBY,KBY,,STREAKY BAY,4432 ft,-32.836,134.293
+Small,YCPH,,,Copper Hills Airport,,-27.978,134.317
+Small,YMAK,,,Mabel Creek Station Airport,,-28.942,134.333
+Small,YMTC,,,Mount Clarence Airport,,-28.833,134.358
+Small,YMAI,,,Manguri Airport,,-28.98,134.372
+Small,YSTT,,,Santa Teresa Airport,,-24.118,134.39
+Small,YWBI,,,Warrabri Airport,3000 ft,-21,134.397
+Small,YALM,,,Allambie Airport,,-24.267,134.4
+Small,YGDR,,,The Garden Airport,,-23.287,134.44
+Small,YALC,,,Alcoota Station Airport,,-22.833,134.45
+Small,YBNY,,,Brunchilly Airport,,-18.87,134.462
+Small,YEYD,,,Evelyn Downs Airport,,-28.205,134.488
+Small,YFLS,,,Flinders Island Airport,,-33.7,134.517
+Small,YBDS,,,Birthday Siding Airport,,-30.283,134.517
+Small,YROV,,,Ross River Airport,,-23.599,134.517
+Small,YWSI,,,Wirrida Siding Airport,,-29.567,134.517
+Small,YUPG,,,Urapunga Airport,,-14.717,134.567
+Small,YUTS,,,Utopia Station Airport,,-22.233,134.58
+Small,YTNR,,,Tanumbirini Airport,,-16.45,134.65
+Small,YMDK,,,Mount Riddock Airport,,-23.033,134.683
+Small,YMYW,,,Murray Downs Airport,,-21.048,134.683
+Medium,YCBP,CPD,,COOBER PEDY,4685 ft,-29.04,134.721
+Small,YWNA,,,Wilgena Airport,,-30.767,134.73
+Small,YAKG,,,Arckaringa Airport,,-27.947,134.745
+Medium,YNGU,RPM,,NGUKURR,5020 ft,-14.723,134.748
+Small,YTDM,,,Todmorden Airport,,-27.124,134.77
+Small,YUTP,,,Utopia Airport,,-22.055,134.79
+Small,YIGR,,,Ingomar Airport,,-29.633,134.793
+Small,YCHR,,,Childra Airport,,-31.7,134.833
+Small,YNCS,,,New Crown Airport,,-25.667,134.833
+Small,YKDL,,,Kondoolka Airport,,-32.024,134.861
+Small,YDLD,,,Delmore Downs Airport,,-22.459,134.884
+Small,YRNG,RAM,,RAMINGINING,4825 ft,-12.356,134.898
+Small,YBUL,,,Bulgunnia Airport,,-30.187,134.903
+Small,YHTS,,,Harts Range Airport,,-22.985,134.918
+Small,YRNW,,,Ringwood Airport,,-23.828,134.962
+Small,YMNB,,,Mount Barry Airport,,-28.233,135
+Small,YMNS,,,Mount Swan Airport,,-22.6,135.017
+Small,YLVD,,,Lake Everard Airport,,-31.733,135.027
+Small,YHMT,,,Hamilton Airport,,-26.72,135.073
+Small,YHTA,,,Hiltaba Airport,,-32.143,135.099
+Small,YMPA,MIN,,Minnipa Airport,3000 ft,-32.843,135.145
+Small,YDPR,,,Dneiper Airport,,-22.617,135.2
+Small,YAMJ,,,Ampilatwatja Airport,,-21.655,135.23
+Small,YMDS,,,Macdonald Downs Airport,,-22.467,135.233
+Small,YAMM,AMX,,Ammaroo Airport,,-21.738,135.242
+Small,YKKH,,,Kokatha Airport,,-31.292,135.242
+Small,YSAR,,,Mount Sarah Airport,,-27.043,135.242
+Small,YMTX,,,Mount Dare Airport,,-26.062,135.247
+Small,YEPR,,,Epenarra Airport,,-20.433,135.267
+Small,YADO,,,Andado Airport,,-25.412,135.29
+Small,YKGA,,,Kingoonya Airport,,-30.902,135.305
+Small,YNWL,,,North Well Airport,,-30.846,135.309
+Small,YDYD,,,Derry Downs Airport,,-22.083,135.333
+Small,YMTP,,,Mount Hope Airport,,-34.137,135.338
+Small,YHOA,,,Howard Island Airport,,-12.095,135.362
+Small,YNUE,,,Numery Airport,,-23.983,135.4
+Small,YOAD,,,Old Andado Airport,,-25.383,135.417
+Small,YELK,,,Elkedra Airport,,-21.167,135.433
+Small,YHKT,,,Huckitta Airport,,-22.943,135.447
+Small,YOOD,ODD,,Oodnadatta Airport,3000 ft,-27.562,135.447
+Small,YWUD,WUD,,WUDINNA,4954 ft,-33.043,135.447
+Small,YBAH,,,Bauhinia Downs Airport,,-16.133,135.467
+Small,YBBO,,,Bon Bon Airport,,-30.407,135.48
+Small,YRDA,,,Yardea Airport,,-32.41,135.485
+Small,DALH,,,Dalhousie Airport,,-26.429,135.506
+Small,YCOF,,,Coffin Bay Airport,,-34.633,135.517
+Small,YDLH,,,Dalhousie Airport,,-26.435,135.517
+Small,YANL,AYL,,Anthony Lagoon Airport,,-18.018,135.535
+Small,YCCK,,,Canteen Creek Airport,,-20.651,135.585
+Small,YKWG,,,Kangaroo Well Airport,,-31.785,135.638
+Small,YMAC,,,Macumba Airport,,-27.262,135.638
+Small,YCUS,,,CUMMINS,4124 ft,-34.208,135.642
+Small,YRRR,,,Raymangirr Airport,,-12.333,135.65
+Small,YWHL,,,Walhallow Airport,,-17.767,135.65
+Small,YMEB,,,Mount Eba Airport,,-30.176,135.671
+Small,YARP,,,Arapunya Airport,,-22.317,135.7
+Small,YCMM,,,Cummins Town Airport,,-34.258,135.708
+Small,YNUM,NUB,,NUMBULWAR,4331 ft,-14.272,135.717
+Small,YVIV,,,Mount Vivian Airport,,-30.583,135.717
+Small,YCCF,,,Cape Crawford Airport,,-16.683,135.733
+Small,YJNK,,,Jinka Airport,,-22.95,135.733
+Small,YWRV,,,Walker River Airport,,-13.593,135.755
+Small,YGLD,,,Glendambo Airport,,-30.967,135.775
+Small,YMYH,,,Mallapunyah Springs Airport,,-16.967,135.783
+Small,YLEV,LEL,,LAKE EVELLA,3494 ft,-12.499,135.806
+Small,YBKS,,,Barkly Wayside Inn Airport,,-19.709,135.819
+Small,YMOE,,,Moonaree Airport,,-31.966,135.875
+Small,YCDB,,,Coondambo Airport,,-31.067,135.883
+Small,YNPA,,,Nilpinna Airport,,-28.483,135.9
+Small,YPKE,,,Peake Airport,,-28.25,135.9
+Small,YBRU,BTD,,Brunette Downs Airport,,-18.64,135.938
+Small,YGAN,,,Gan Gan Airport,,-13.067,135.95
+Small,YMIV,,,Mount Ive Airport,,-32.444,136.069
+Small,YORT,,,Ooratippra Airport,,-21.906,136.069
+Small,YTBB,,,Tumby Bay Airport,3000 ft,-34.362,136.095
+Small,YJVS,,,Jervois Airport,,-22.913,136.12
+Small,YIKL,,,Baikal Airport,,-22.763,136.163
+Small,YANK,,,Anna Creek Airport,,-28.897,136.17
+Small,YKIA,,,Kiana Station Airport,,-17.242,136.175
+Small,YJVM,,,Jervois Mine Airport,,-22.633,136.267
+Small,YLUC,,,Lucy Creek Airport,,-22.467,136.267
+Small,YKOL,,,Kolendo Airport,,-32.416,136.298
+Small,YBRL,BOX,,BORROLOOLA,3770 ft,-16.075,136.302
+Small,YWMC,,,William Creek Airport,,-28.907,136.342
+Small,YATL,,,Atula Airport,,-23.283,136.367
+Small,YPKI,,,Parakylia Airport,,-30.4,136.392
+Small,YMWO,,,Mahanewo Airport,,-31.718,136.433
+Small,YANW,,,Annitowa Airport,,-21.2,136.448
+Small,YIMB,,,Kimba Airport,5100 ft,-33.1,136.46
+Small,YNIG,,,Nonning Airport,,-32.522,136.494
+Medium,YCEE,CVC,,CLEVE,4429 ft,-33.71,136.505
+Small,YDHL,,,Dhalinbuy Airport,,-12.413,136.537
+Small,YCBO,,,Cape Borda Airport,,-35.757,136.598
+Small,YARD,,,Argadargada Airport,,-21.677,136.678
+Small,YALX,AXL,,Alexandria Homestead Airport,,-19.06,136.71
+Small,YROK,,,Rocky River Airport,,-35.93,136.72
+Small,YRXB,,,Roxby Downs Station Airport,,-30.717,136.737
+Small,YCWE,,,Cape Wessels Airport,,-11,136.75
+Small,YTLT,,,Tarlton Downs Airport,,-22.633,136.8
+Small,YYOO,,,Yalymboo Airport,,-31.803,136.86
+Small,YCWL,CCW,,Cowell Airport,4800 ft,-33.667,136.892
+Small,YBNM,,,Benmara Airport,,-17.937,136.9
+Small,YRBR,,,Robinson River Airport,,-16.718,136.945
+Small,YSDN,,,Soudan Station Airport,,-20.05,137.017
+Small,YMTA,MIY,,Mittebah Airport,,-18.809,137.082
+Small,YCKA,,,Curdimurka Airport,,-29.477,137.088
+Small,YAMK,ADO,,Andamooka Airport,3000 ft,-30.438,137.137
+Small,,,,Lake Eyre North,,-28.417,137.3
+Small,YAVD,,,Avon Downs Airport,,-20.033,137.517
+Medium,YKSC,KGC,,KINGSCOTE,4600 ft,-35.714,137.521
+Small,YMIN,XML,,Minlaton Airport,,-34.75,137.533
+Small,YYOR,ORR,,Yorketown Airport,,-35,137.617
+Small,YCPP,,,Copper Triangle Airport,,-33.982,137.662
+Medium,YPAG,PUG,,PORT AUGUSTA,5413 ft,-32.507,137.717
+Small,YMLD,,,Maitland Airport,,-34.393,137.717
+Small,YAUS,AWP,,Austral Downs Airport,,-20.5,137.75
+Small,YRBM,,,Redbank Mine Airport,,-17.183,137.767
+Small,YARS,,,Ardrossan Airport,,-34.442,137.883
+Small,YMLR,,,Muloorina Airport,,-29.247,137.91
+Small,YNUJ,,,Nudjaburra Airport,,-17.967,137.933
+Small,YWOR,WLL,,Wollogorang Airport,,-17.22,137.935
+Small,YMCR,MFP,,Manners Creek Airport,,-22.1,137.983
+Medium,YPIR,PPI,,PORT PIRIE,3422 ft,-33.239,137.995
+Small,YMRE,RRE,,Marree Airport,4400 ft,-29.663,138.065
+Small,YRKS,,,Rocklands Airport,,-19.867,138.1
+Small,YQRN,,,Quorn Airport,,-32.32,138.102
+Small,YCMW,CML,,Camooweal Airport,,-19.912,138.125
+Small,YWRA,,,Wooroona Airport,,-20.482,138.168
+Small,YWML,,,Westmoreland Airport,,-17.333,138.233
+Small,YKLR,,,Kalamurina Airport,,-27.717,138.262
+Small,YBWT,,,Bowthorn Airport,,-18.083,138.275
+Small,YHDY,HIP,,Headingly Airport,,-21.333,138.283
+Small,YKFC,,,Kingfisher Camp Airport,,-17.869,138.295
+Small,YCWI,CWR,,Cowarie Airport,,-27.712,138.328
+Small,YNOF,,,Norfolk Airport,,-19.333,138.333
+Small,YBVA,,,Balaklava Airport,,-34.084,138.334
+Small,YUDG,,,Urandangi Airport,,-21.59,138.358
+Small,YBOC,,,Booleroo Centre Airport,3000 ft,-32.905,138.36
+Small,YHEG,,,Hells Gate Airport,,-17.467,138.367
+Small,YSNT,,,Snowtown Airport,,-33.8,138.367
+Medium,YLEC,LGH,,LEIGH CREEK,5610 ft,-30.598,138.426
+Small,YBAW,BKP,,Barkly Downs Airport,,-20.496,138.475
+Small,YCRT,,,Carrieton Airport,,-32.417,138.517
+Small,YALG,,,Adels Grove Airport,,-18.7,138.533
+Small,YCVG,,,Calvin Grove Airport,,-34.697,138.578
+Small,YRYK,,,Rawnsley Park Airport,,-31.654,138.61
+Small,YCDT,,,Carandotta Airport,,-21.967,138.617
+Small,YUDL,,,Undilla Airport,,-19.625,138.633
+Small,YLAH,LWH,,Lawn Hill Airport,3000 ft,-18.568,138.635
+Small,YORR,,,Orroroo Airport,,-32.773,138.665
+Small,YCNY,,,CENTURY MINE,5734 ft,-18.753,138.707
+Small,YGAW,,,Gawler Airport,,-34.602,138.717
+Small,YBLM,,,Blinman Airport,,-31.119,138.726
+Small,YGWA,,,Goolwa Airport,3500 ft,-35.482,138.752
+Small,YFFT,,,Farrell Flat Airport,,-33.833,138.767
+Small,YDMG,DMD,,DOOMADGEE,5403 ft,-17.94,138.822
+Small,YGLO,GLM,,Glenormiston Airport,,-22.888,138.825
+Small,YPTB,,,Peterborough Airport,,-33.005,138.858
+Small,YKLL,,,Kallala Airport,,-21.75,138.883
+Small,YLYK,,,Lyndoch Airport,,-34.622,138.914
+Small,YNPU,,,Nepabunna Airport,,-30.603,138.948
+Small,YWPA,,,Wirrealpa Airport,,-31.133,138.967
+Small,YSYN,,,Strathalbyn Airport,,-35.312,138.99
+Small,YMNP,,,Murnpeowie Airport,,-29.592,139.052
+Small,YMTW,,,Martins Well Airport,,-31.474,139.111
+Small,YMTI,ONG,,MORNINGTON ISLAND,4987 ft,-16.663,139.178
+Small,YAOR,,,Ardmore Airport,,-21.65,139.183
+Small,YTEN,,,Tenneco Station Five Airport,,-31.975,139.207
+Small,YMBD,,,Murray Bridge Airport,3000 ft,-35.067,139.227
+Small,YGDS,GGD,,Gregory Downs Airport,3000 ft,-18.625,139.233
+Small,YADS,AWN,,Alton Downs Airport,,-26.533,139.267
+Small,YSFL,,,Stonefield Gliding,,-34.342,139.308
+Small,YNIN,,,Meningie Airport,,-35.7,139.333
+Small,YBLC,LCN,,Balcanoona Airport,,-30.535,139.337
+Small,YARK,,,Arkaroola Airport,,-30.407,139.346
+Medium,YBDV,BVI,,BIRDSVILLE,5682 ft,-25.898,139.347
+Small,YWEO,,,Wertaloona Airport,,-30.65,139.35
+Small,YGPR,,,Gunpowder Airport,,-19.7,139.367
+Small,YTNN,,,Tenneco Station Four Airport,,-31.183,139.383
+Small,YPDI,PDE,,Pandie Pandie Airport,,-26.117,139.4
+Small,YCTS,,,Calton Hills Airport,,-20.133,139.417
+Small,YESC,,,Escott Airport,3000 ft,-17.725,139.417
+Small,YERU,,,Erudina Airport,,-31.434,139.425
+Small,YWLN,,,Wooltana Airport,,-30.422,139.436
+Medium,YBIE,BEU,,BEDOURIE,4921 ft,-24.346,139.46
+Small,YFTN,,,Mount Fitton Talc Airport,,-29.909,139.474
+Small,YDAJ,DJR,,Dajarra Airport,,-21.708,139.533
+Small,YBKT,BUC,,BURKETOWN,4501 ft,-17.749,139.534
+Small,YYUN,,,Yunta Airport,,-32.583,139.55
+Small,YBEE,,,Beverley Airport,,-30.187,139.558
+Small,YBTK,,,Bentinck Island Airport,,-17.087,139.566
+Small,YSWE,,,Sweers Island Resort Airport,,-17.122,139.598
+Small,YGLE,GLG,,Glengyle Airport,,-24.808,139.6
+Small,YUNY,CZY,,Cluny Airport,,-24.517,139.617
+Small,YALY,,,Alderley Airport,,-22.483,139.633
+Small,YRSB,RSB,,Roseberth Airport,3000 ft,-25.833,139.65
+Small,YTEC,,,Tenneco Station Three Airport,,-30.337,139.665
+Small,YMWX,MXD,,Marion Downs Airport,,-23.367,139.667
+Small,YBHK,,,Bushy Park Airport,,-21.267,139.717
+Small,YSBO,,,Stanbroke Airport,,-21.567,139.717
+Small,YFRD,,,Frome Downs Airport,,-31.217,139.75
+Small,YMWT,,,Moolawatana Airport,,-29.917,139.75
+Small,YAML,,,Armraynald Airport,,-17.967,139.767
+Small,YPMB,,,Plumbago Airport,,-32.053,139.872
+Small,YKIG,,,Kingston Airport,,-36.823,139.875
+Small,YAGD,AUD,,Augustus Downs Airport,3000 ft,-18.515,139.878
+Medium,YBOU,BQL,,BOULIA,4180 ft,-22.913,139.9
+Small,YLOR,LOA,,Lorraine Airport,3000 ft,-18.993,139.907
+Small,YTMO,PHQ,,THE MONUMENT,6233 ft,-21.811,139.924
+Small,YTOS,,,Tenneco Station Two Airport,,-29.55,139.95
+Small,YWER,,,Wernadinga Airport,,-18.133,139.967
+Small,YWKI,,,WAIKERIE,3151 ft,-34.184,140.031
+Small,YKAJ,,,Kajabbi Airport,,-20.033,140.033
+Small,YTNE,,,Tenneco Station One Airport,,-28.733,140.05
+Small,YKML,KML,,Kamileroi Airport,3000 ft,-19.375,140.057
+Small,YTIN,,,Tintinara Airport,,-35.867,140.067
+Small,YOOM,MOO,,MOOMBA,5636 ft,-28.099,140.197
+Small,YDRI,DRR,,Durrie Airport,3000 ft,-25.685,140.228
+Small,YDEV,,,Devoncourt Airport,,-21.217,140.233
+Small,YKTH,,,Keith Airport,,-36.108,140.242
+Small,YCNG,,,Cooranga Airport,,-36.82,140.273
+Small,YCTH,,,Chatsworth Airport,,-21.967,140.3
+Small,YMYT,RTY,,Merty Merty Airport,,-28.583,140.317
+Small,YSTR,,,Strathearn Airport,,-31.767,140.333
+Small,YLUI,,,Lucindale Airport,,-36.972,140.352
+Small,YMCT,MLR,,MILLICENT,3937 ft,-37.584,140.366
+Small,YGNA,,,Granada Airport,,-20.1,140.367
+Small,YCLE,,,Callendale Airport,,-37.243,140.445
+Small,YQON,,,Quondong Airport,,-33.163,140.452
+Small,YBMR,,,Barmera Airport,,-34.257,140.458
+Small,YPDY,,,Padthaway Station Airport,,-36.617,140.483
+Small,YLUL,,,Mooleulooloo Airport,,-31.633,140.533
+Small,YMNK,ONR,,Monkira Airport,3000 ft,-24.817,140.533
+Small,YDOO,,,Donors Hill Airport,,-18.717,140.55
+Small,YLAO,,,Lameroo Airport,,-35.367,140.55
+Small,YOSB,OSO,,OSBORNE MINE,6550 ft,-22.082,140.555
+Small,YINV,,,Inverleigh Airport,,-18.017,140.567
+Small,YLOX,,,Loxton Airport,3800 ft,-34.475,140.663
+Medium,YREN,RMK,,RENMARK,5709 ft,-34.196,140.674
+Small,YCGH,,,Clonagh Airport,,-20.133,140.683
+Small,YSPV,KSV,,Springvale Airport,,-23.55,140.7
+Small,YNRC,NAC,,NARACOORTE,3438 ft,-36.985,140.725
+Small,YINN,INM,,Innamincka Airport,3000 ft,-27.7,140.733
+Small,YBEO,BTX,,Betoota Airport,3000 ft,-25.642,140.783
+Medium,YMTG,MGB,,MOUNT GAMBIER,5000 ft,-37.746,140.785
+Small,YCNQ,,,Coonawarra Airport,,-37.283,140.8
+Small,YTOA,,,Toolachie Airport,,-28.408,140.81
+Small,YKMB,KRB,,Karumba Airport,4100 ft,-17.457,140.83
+Small,YBLG,,,Bollards Lagoon Airport,,-28.983,140.85
+Small,YDGI,,,Dullingari Airport,,-28.133,140.882
+Small,YTEE,TQP,,TREPELL,5903 ft,-21.835,140.888
+Small,YCAM,,,Cannington Station Airport,,-21.875,140.9
+Small,YPNN,,,Pinnaroo Airport,,-35.253,140.943
+Small,YAND,,,Answer Downs Airport,,-21.667,140.983
+Small,YMOO,OOR,,Mooraberree Airport,,-25.25,140.983
+Small,YARY,AAB,,Arrabury Airport,3000 ft,-26.7,141.05
+Medium,YNTN,NTN,,NORMANTON,5499 ft,-17.684,141.07
+Small,YDPD,DVP,,Davenport Downs Airport,3000 ft,-24.15,141.108
+Small,YSDW,,,Strathdownie Airport,,-37.732,141.125
+Small,YNAP,NMR,,Nappa Merrie Airport,3000 ft,-27.558,141.133
+Small,YSCA,,,Scotia Sanctuary Airport,,-33.207,141.173
+Small,YEPL,,,Epsilon Airport,,-28.283,141.2
+Small,YOMI,,,Omicron Station Airport,,-28.767,141.2
+Small,YIFY,IFF,,Iffley Airport,3000 ft,-18.9,141.217
+Small,YKNV,,,Kaniva Airport,,-36.383,141.25
+Small,YEDE,,,Edenhope Airport,,-37.017,141.267
+Small,YMCK,,,Mckinley Airport,,-21.283,141.288
+Small,YDLT,DDN,,Delta Downs Airport,3000 ft,-16.992,141.317
+Small,YCTN,,,Casterton Airport,,-37.6,141.4
+Small,YWSD,,,Westward Downs Airport,,-30.725,141.4
+Small,YYAA,,,Yandama Airport,,-29.683,141.425
+Small,YMNY,OXY,,Morney Airport,3000 ft,-25.358,141.433
+Small,YIKM,IKP,,Inkerman Airport,,-16.275,141.442
+Small,YCNA,,,Corona Station Airport,,-31.291,141.452
+Medium,YPOD,PTJ,,PORTLAND,5302 ft,-38.318,141.471
+Small,YCUD,,,Cuddapan Airport,,-25.59,141.508
+Small,YWNI,,,Wathanin Airport,,-13.7,141.55
+Small,YMLL,,,Millungera Airport,,-19.858,141.562
+Small,,BHT,,Brighton Downs Airport,,-23.364,141.563
+Small,YARI,,,Arizona 1 Airport,,-21.667,141.567
+Small,YKNC,,,Kencherang Airport,,-13.845,141.592
+Small,YPMP,EDR,,PORMPURAAW,4462 ft,-14.897,141.609
+Small,YNHL,,,NHILL,3281 ft,-36.31,141.641
+Small,YTTE,,,Ti Tree Airport,,-13.985,141.657
+Small,YCOL,,,Coleraine Airport,,-37.6,141.7
+Small,YBXH,,,Branxholme Airport,,-37.867,141.702
+Small,YAUR,AUU,,AURUKUN,4140 ft,-13.354,141.721
+Small,YJLC,JCK,,JULIA CREEK,4600 ft,-20.668,141.722
+Small,YTKS,,,Toorak Research Station Airport,3000 ft,-21.042,141.787
+Small,YDOR,DRD,,Dorunda Airport,,-16.558,141.808
+Small,YLLE,,,BALLERA,5906 ft,-27.408,141.808
+Small,YRTP,RTP,,Rutland Plains Airport,3000 ft,-15.643,141.843
+Small,YWTO,,,Wentworth Airport,,-34.088,141.892
+Small,YACS,,,Acacia Downs Airport,,-31.417,141.9
+Small,YDRH,DHD,,Durham Downs Airport,3000 ft,-27.075,141.9
+Small,YKYN,,,Kynuna Airport,,-21.6,141.917
+Small,YNRL,,,Naryilco Airport,,-28.55,141.917
+Small,YTNB,,,Tanbar Airport,,-25.848,141.928
+Small,YVRS,VNR,,Vanrook Station Airport,,-16.963,141.95
+Small,YRBW,,,Rainbow Airport,,-35.917,141.983
+Small,YCUT,,,Cuthero Airport,,-33.033,142.017
+Small,YSOW,,,Southwell Airport,,-14.517,142.033
+Medium,YTIB,TYB,,TIBOOBURRA,3202 ft,-29.451,142.058
+Medium,YHML,HLT,,HAMILTON,4606 ft,-37.649,142.065
+Small,YTAD,,,Tandou Lake Airport,,-32.633,142.083
+Small,YSGW,ZGL,,South Galway Airport,3000 ft,-25.683,142.108
+Small,YLAN,,,Langawirra Airport,,-31.45,142.133
+Small,YPCH,,,Patchewollock Airport,,-35.367,142.15
+Medium,YHSM,HSM,,HORSHAM,4337 ft,-36.67,142.173
+Small,YBAU,BDD,,Badu Island Airport,,-10.15,142.173
+Small,YKRV,,,Kendall River Airport,,-13.75,142.183
+Small,YKOG,,,Koongarra Airport,,-36,142.217
+Small,YBOI,GIC,,Boigu Airport,,-9.233,142.218
+Small,YKUB,KUG,,KUBIN,3147 ft,-10.225,142.218
+Small,YWTV,,,Watson River Airport,,-13.217,142.233
+Small,YCRY,CDQ,,Croydon Airport,3000 ft,-18.225,142.258
+Small,,,,Port Fairy,,-38.362,142.264
+Small,YVVA,,,Victoria Valley Airport,,-37.5,142.27
+Small,YGMP,,,Grampians Airport,,-37.05,142.283
+Small,YMHW,,,Mount Howitt Airport,3000 ft,-26.512,142.283
+Small,YWMA,,,Wonnaminta Stat Airport,,-30.651,142.342
+Small,YOUY,OYN,,Ouyen Airport,,-35.089,142.354
+Medium,YHPN,HTU,,HOPETOUN,3730 ft,-35.715,142.36
+Small,YSDL,,,Sudley Airport,,-12.75,142.367
+Small,YDBR,DNB,,Dunbar Airport,,-16.05,142.4
+Small,YMED,,,Menindee Airport,,-32.367,142.405
+Small,YJAK,,,Jackson Airport,5900 ft,-27.638,142.408
+Small,YBEU,,,Beulah 1 Airport,,-35.95,142.417
+Small,YMEP,,,Merapah Airport,,-13.717,142.417
+Medium,YWKB,WKB,,WARRACKNABEAL,4501 ft,-36.321,142.419
+Small,YSGD,,,Strathgordon Airport,,-14.795,142.433
+Small,YWBL,WMB,,WARRNAMBOOL,4501 ft,-38.295,142.447
+Small,YGDV,,,Galdeville Airport,,-20.25,142.45
+Small,YKLA,,,Koolatah Airport,,-15.917,142.45
+Small,YBAM,ABM,,BAMAGA INJINOO,5462 ft,-10.951,142.459
+Small,YMEU,,,Merluna Airport,,-13.05,142.483
+Small,YKAY,,,Kayrunnera Airport,,-30.683,142.533
+Small,YCFF,,,Dadswells Bridge Airport,,-36.968,142.548
+Small,YSMR,STH,,Strathmore Airport,,-17.85,142.567
+Small,YHTL,,,Heathlands Airport,,-11.75,142.583
+Small,YNCD,,,Noccundra Airport,,-27.8,142.583
+Small,YPVD,,,Plevna Downs Airport,,-26.667,142.583
+Small,YPCE,,,Pooncarie Airport,3400 ft,-33.367,142.588
+Small,YALN,,,Allandy Airport,,-30.383,142.6
+Small,YMWM,,,Mount William Airport,,-37.295,142.603
+Small,YODL,,,Ourdel Airport,,-25.35,142.633
+Small,YGWD,,,Galway Downs Airport,,-25.183,142.667
+Small,YWIL,,,Wilandra Airport,,-31.283,142.667
+Medium,YWDH,WNR,,WINDORAH,4508 ft,-25.413,142.667
+Small,,,,Pomonal Airstrip,,-37.231,142.677
+Small,YNOC,,,Nockatunga Airport,,-27.717,142.712
+Small,YCWO,,,Chatsworth Airport,,-37.833,142.717
+Medium,YSWL,SWC,,STAWELL,4603 ft,-37.072,142.741
+Small,YROI,RBC,,Robinvale Airport,3700 ft,-34.65,142.783
+Small,YSMY,,,Strathmay Airport,,-14.883,142.802
+Small,YSTB,,,Strathburn Airport,,-14.482,142.817
+Small,YMAG,,,Manangatang Airport,,-35.05,142.867
+Small,YLBO,,,Lake Bolac Airport,,-37.683,142.883
+Small,YSLK,,,Sea Lake Airport,3400 ft,-35.527,142.888
+Small,YPBH,,,Peterborough Airport,,-38.6,142.917
+Small,YBIR,,,BIRCHIP,3422 ft,-36,142.917
+Small,YBLH,,,Bellalie Airport,,-27.033,142.95
+Small,YSVN,,,Strathaven Airport,,-14.9,142.967
+Small,YYLD,,,Yalda Downs Homestead Airport,,-30.261,142.977
+Medium,YARA,ARY,,ARARAT,4068 ft,-37.309,142.989
+Small,YDOD,,,DONALD,3825 ft,-36.36,143.007
+Small,YRAM,,,Raymore Homestead Airport,,-26.15,143.017
+Small,YWAT,,,Wattle Hills Airport,,-12.633,143.05
+Small,YCDE,,,Cobden Airport,,-38.327,143.057
+Small,YJDA,JUN,,Jundah Airport,3000 ft,-24.842,143.058
+Small,YCCT,CNC,,Coconut Island Airport,,-10.05,143.07
+Small,YWHC,,,White Cliffs Airport,3000 ft,-30.853,143.072
+Small,YSVH,,,Silver Hills Airport,,-20.617,143.083
+Medium,YWTN,WIN,,WINTON,4600 ft,-22.364,143.086
+Small,YNVE,,,Navarre Airport,,-36.917,143.1
+Medium,YCOE,CUQ,,COEN,4107 ft,-13.761,143.114
+Small,YRMD,RCM,,RICHMOND,5000 ft,-20.702,143.115
+Small,YQUE,,,Questa Park Airport,,-30.392,143.142
+Small,YKUW,,,Kurweeton Airport,,-38.05,143.15
+Small,YABI,ABG,,Abingdon Downs Airport,,-17.617,143.167
+Small,YMPH,,,Mount Elephant Airport,,-37.9,143.167
+Small,YSTA,,,SAINT ARNAUD,3278 ft,-36.637,143.186
+Small,YDER,,,Derrinallum Airport,,-37.934,143.228
+Small,,,,Natya Airport,,-34.968,143.233
+Small,YMLN,,,Monolon Airport,,-30.2,143.233
+Small,YWYF,,,Wycheproof Airport,3300 ft,-36.058,143.243
+Small,YBEF,,,Beaufort Airport,,-37.45,143.25
+Small,YEMG,,,Eromanga Airport,,-26.7,143.267
+Small,YGGL,,,Glen Garland Airport,,-14.867,143.283
+Small,,,,Moonambel Airfield,,-36.972,143.286
+Small,YCHL,,,Charlton Airport,,-36.25,143.3
+Small,YSTO,,,Stonehenge Airport,3000 ft,-24.358,143.3
+Medium,YLHR,IRG,,LOCKHART RIVER,4919 ft,-12.787,143.305
+Small,YRAG,,,Raglan Airport,,-37.377,143.306
+Small,YMMT,,,Mount Margaret Airport,,-26.933,143.317
+Small,YCWN,,,Corowa Downs Airport,,-26.467,143.35
+Small,YLSM,,,Lismore Airport,,-37.933,143.35
+Small,YWCA,WIO,,WILCANNIA,3701 ft,-31.526,143.375
+Small,YBOD,,,Bodalla Airport,,-26.3,143.383
+Small,YSLN,,,Strathleven Airport,,-15.898,143.383
+Small,YATR,,,Amphitheatre Airport,,-37.183,143.4
+Small,YTRC,,,Tarcombe Airport,,-24.083,143.4
+Small,YBFT,,,Beaufort,,-37.495,143.43
+Small,,,,Trawalla Airport,,-37.439,143.459
+Small,YTHY,TYG,,Thylungra Airport,,-26.083,143.467
+Small,YBWM,BIP,,Bulimba Airport,,-16.881,143.479
+Small,YWED,,,Wedderburn Airport,,-36.433,143.483
+Small,YKLN,,,Killarney Airport,,-15.4,143.5
+Small,YMGV,,,Musgrave Airport,,-14.783,143.5
+Small,YQBK,,,Quambatook Airport,,-35.862,143.51
+Small,YCTY,,,Cape Otway Airport,,-38.86,143.515
+Small,YLRN,,,Lorraine Station Airport,,-22.533,143.517
+Small,YGTN,GTT,,GEORGETOWN,3799 ft,-18.305,143.53
+Medium,YSWH,SWH,,SWAN HILL,4905 ft,-35.376,143.533
+Small,YBTD,,,Brighton Downs Airport,,-23.35,143.533
+Small,YPIN,,,Pinnacle Airport,,-15.667,143.55
+Small,YFSA,,,Forsayth Airport,,-18.585,143.569
+Medium,YBRN,BZD,,BALRANALD,3888 ft,-34.624,143.578
+Small,YDNK,,,Darnick Airport,,-32.883,143.583
+Small,YNOO,,,Nooyeah Downs Airport,,-28.05,143.583
+Small,YVVL,,,Violet Vale Airport,,-14.733,143.583
+Small,YDAG,,,Dagworth Airport,,-17.942,143.588
+Small,YAPO,,,Apollo Bay Airport,,-38.775,143.661
+Small,YGAM,GBP,,Gamboola Airport,,-16.55,143.667
+Small,YLLV,,,Lily Vale Airport,,-14.483,143.667
+Small,YTVA,,,Talavera Airport,,-19.217,143.667
+Small,YWNS,,,Wandsworth Airport,,-25.05,143.667
+Small,YOLA,XCO,,Colac Airport,,-38.287,143.68
+Small,YDLL,,,Dunolly Airport,,-36.85,143.7
+Small,YNVL,,,Normanville Airport,,-35.783,143.7
+Small,YNVR,,,Navarra Airport,,-24.85,143.7
+Small,YMBU,,,MARYBOROUGH,3414 ft,-37.033,143.709
+Small,YROB,ROH,,Robinhood Airport,,-18.845,143.71
+Small,YRKE,,,Kuruc-A-Ruc South Airport,,-37.9,143.717
+Small,YBBT,,,Boort Airport,,-36.137,143.727
+Small,YMYY,,,Mary Valley Airport,,-15.05,143.75
+Closed,YYWE,,,Yarrowee Airport,,-37.74,143.753
+Small,YBGT,,,Budgerygar Airport,,-25.37,143.773
+Small,YBLT,,,BALLARAT,4150 ft,-37.512,143.791
+Small,YBUX,,,Bulleringa Airport,,-17.65,143.8
+Small,YLLR,,,Lake Leagur Airport,,-35.983,143.8
+Medium,YTGM,XTG,,THARGOMINDAH,4800 ft,-27.986,143.811
+Small,YKLG,,,Kalinga Airport,,-15.2,143.85
+Medium,YKII,KNS,,KING ISLAND,5198 ft,-39.877,143.878
+Small,YMNO,,,Maneroo Airport,,-23.367,143.883
+Small,YTII,,,Trinidad Airport,,-25.6,143.917
+Medium,YKER,KRA,,KERANG,3501 ft,-35.751,143.939
+Small,YCLA,,,Clare Station Airport,,-33.407,143.94
+Small,YBGR,,,Bridgewater Airport,,-36.617,143.95
+Small,YWMP,WPK,,Wrotham Park Airport,,-16.658,144.002
+Closed,YEDH,,,Meredith Airport,,-37.883,144.083
+Small,YLED,,,Lethbridge Park Airport,,-37.919,144.101
+Small,YPYD,,,Pyramid Hill Airport,,-36.067,144.133
+Small,YPRA,,,Prairie Airport,,-36.307,144.139
+Small,YOIT,,,Orielton Airport,,-22.067,144.15
+Small,YCAL,,,Castlemaine Airport,,-37.133,144.167
+Small,YWAG,,,Wanaaring Airport,,-29.717,144.167
+Small,YKID,,,Kidston Airport,3000 ft,-18.87,144.173
+Small,YBWR,,,Bolwarra Airport,,-17.4,144.183
+Small,YWOV,,,Woodvale Airport,,-36.633,144.183
+Small,YCOH,,,Cohuna Airport,,-35.817,144.2
+Small,YKPR,,,Kalpowar Airport,,-14.9,144.2
+Small,YLFD,,,Lakefield Airport,,-14.933,144.2
+Small,YHUG,HGD,,HUGHENDEN,5394 ft,-20.815,144.225
+Medium,YQLP,ULP,,QUILPIE,4898 ft,-26.612,144.253
+Small,YCES,,,Ceres Airport,,-38.148,144.258
+Small,YJWB,,,Jowalbinna Airport,,-15.733,144.267
+Small,YALH,,,Albilbah Airport,,-24.7,144.283
+Small,YRWH,,,Ravensworth Airport,,-34.633,144.283
+Small,YMSP,,,Mount Surprise Airport,,-18.126,144.285
+Small,YIVO,,,IVANHOE,4088 ft,-32.883,144.31
+Small,YCPN,,,Carpentaria Downs Airport,,-18.717,144.317
+Small,YBDG,BXG,,BENDIGO,3724 ft,-36.739,144.33
+Small,YLVB,,,Lovely Banks Airport,,-38.033,144.333
+Small,YNOR,,,Norwood Airport,,-34.25,144.333
+Small,YGLG,GEX,,Geelong Airport,,-38.225,144.333
+Small,YDNV,,,Dynevor Downs Airport,,-28.1,144.35
+Small,YLRS,LUT,,New Laura Airport,,-15.183,144.367
+Small,YGBW,,,Gunbower Airport,,-35.967,144.383
+Small,YGGS,,,Gregory Springs Airport,,-19.717,144.383
+Small,YJNY,,,Jonroy Airport,,-16.5,144.4
+Small,YBSS,,,Bacchus Marsh Airport,,-37.733,144.422
+Small,YISF,ISI,,ISISFORD,4498 ft,-24.258,144.425
+Small,YBRS,,,Barwon Heads Airport,,-38.258,144.428
+Small,TCYT,,,Crystal Brook Airport,,-17.45,144.45
+Small,YCYT,,,Crystal Brook Airport,,-17.383,144.45
+Small,YHRD,,,Hungerford Airport,,-28.983,144.45
+Small,YLRA,LUU,,Laura Airport,,-15.55,144.45
+Small,YKTA,,,Kotta Airport,,-36.18,144.525
+Small,YCGO,LLG,,CHILLAGOE,3218 ft,-17.143,144.529
+Small,YTRB,,,Torrumbarry Airport,,-36.067,144.533
+Small,YMTB,UTB,,Muttaburra Airport,3000 ft,-22.583,144.533
+Small,YAVM,,,Avonmore Airport,,-36.567,144.55
+Small,YSPK,SCG,,Spring Creek Airport,,-18.633,144.567
+Small,YUDA,UDA,,Undara Airport,,-18.2,144.6
+Small,YISD,,,Isis Downs Airport,,-24.217,144.617
+Small,YYWA,,,Yowah Airport,,-27.933,144.617
+Small,YBEW,,,Beechworth Airport,,-31.917,144.633
+Small,YBMM,,,Bamawm Airport,,-36.25,144.633
+Small,YOTN,,,Ootann Airport,,-17.433,144.633
+Small,YELM,,,Elmore Airport,,-36.49,144.647
+Small,YSLE,,,St Leonards Airfield,,-38.17,144.689
+Small,YMDW,,,Maitland Downs Airport,,-16.223,144.703
+Small,YHTR,,,Hunter Island Airport,,-40.517,144.733
+Small,YCJU,,,Conjuboy Airport,,-18.683,144.75
+Medium,YECH,ECH,,ECHUCA,3615 ft,-36.157,144.762
+Medium,YHAY,HXX,,HAY,4800 ft,-34.531,144.83
+Small,YWDT,,,Wyandotte Airport,,-18.75,144.833
+Small,YLND,,,Lakeland Airport,,-15.833,144.85
+Small,YSPF,,,Springfield Airport,,-24.3,144.883
+Small,YBFR,,,Balfour Airport,,-41.259,144.886
+Small,YWDV,,,Wandovale Airport,,-19.667,144.9
+Medium,YMEN,MEB,,MELBOURNE ESSENDON,6302 ft,-37.728,144.902
+Medium,YDLQ,DNQ,,DENILIQUIN,3999 ft,-35.559,144.946
+Closed,YWAN,,,Wallan Airport,,-37.433,144.988
+Small,YLKD,,,Lucky Downs Airport,,-18.917,145
+Small,YTCK,,,Torrens Creek Airport,,-20.783,145
+Small,YEUO,,,Eulo Airport,3000 ft,-28.167,145.042
+Small,YPKL,,,Puckapunyal (Military) Airport,2600 ft,-37,145.063
+Small,YBNC,,,Bannockburn Airport,,-21.8,145.083
+Small,YDIM,,,Dimbulah Airport,,-17.133,145.083
+Medium,YSMI,SIO,,SMITHTON,5246 ft,-40.835,145.084
+Small,YVLG,,,Valley of Lagoons Airport,,-18.667,145.1
+Small,YWEC,,,Wellclose Airport,,-25.85,145.1
+Small,YCNO,,,Conargo Airport,,-35.317,145.117
+Small,YGNV,GVP,,Greenvale Airport,,-18.983,145.117
+Small,YNGB,,,Nagambie Airport,,-36.738,145.125
+Small,YGHG,,,Glen Harding Airport,,-18.267,145.133
+Small,YMRT,,,Mount Garnet Airport,,-17.7,145.15
+Small,YGUW,,,Gunnawarra Airport,,-17.95,145.167
+Small,YMLK,,,Minnamoolka Airport,,-18.183,145.167
+Small,YMNG,,,MANGALORE,6650 ft,-36.888,145.184
+Medium,YCKN,CTN,,COOKTOWN,5338 ft,-15.445,145.184
+Small,YCWS,,,Cowes Airport,,-38.508,145.213
+Small,YAMC,AXC,,Aramac Airport,3000 ft,-22.967,145.242
+Small,YSRN,SRN,,Strahan Airport,4000 ft,-42.155,145.292
+Small,YCFL,,,Cape Flattery Airport,,-14.967,145.3
+Small,YNHE,,,Newhaven Airport,,-38.533,145.317
+Small,YYEA,,,Yeaburn Airport,,-37.173,145.322
+Small,YBMD,,,Bloomfield River Airport,,-15.9,145.333
+Small,YYAK,,,Yalkulka Airport,,-16.733,145.333
+Small,YLCS,,,Locksley Field,3000 ft,-36.815,145.348
+Small,YZHN,,,Zeehan Airport,,-41.883,145.35
+Small,YLIL,,,Lilydale Airport,,-37.692,145.367
+Medium,YSHT,SHT,,SHEPPARTON,4062 ft,-36.429,145.393
+Small,YGRU,,,Glen Ruth Airport,,-18.083,145.4
+Small,YHTN,,,Herberton Airport,,-17.433,145.4
+Medium,YMBA,MRG,,MAREEBA,4938 ft,-17.069,145.419
+Small,YCBY,,,Daintree Airport,,-16.219,145.425
+Small,YTDN,,,Tooradin Airport,,-38.217,145.427
+Small,YLZR,,,Lizard Island Airport,,-14.683,145.45
+Small,YLZI,LZR,,LIZARD ISLAND,3038 ft,-14.667,145.45
+Small,YLOD,,,Longwood Airport,,-36.808,145.457
+Small,YCMK,,,Camel Creek Airport,,-18.85,145.467
+Small,YHLS,,,HILLSTON,4262 ft,-33.493,145.523
+Small,YQNS,UEE,,Queenstown Airport,4100 ft,-42.075,145.532
+Small,YWRT,,,Waratah Airport,,-41.45,145.55
+Small,YFIL,FLY,,Finley Airport,,-35.667,145.55
+Small,YBYW,,,Bayswater Airport,,-25.45,145.583
+Small,YTOB,,,Toomba Airport,,-19.933,145.583
+Small,YTOC,TCW,,TOCUMWAL,4596 ft,-35.812,145.608
+Medium,YCMU,CMA,,CUNNAMULLA,5686 ft,-28.03,145.622
+Small,YWON,,,Wonthaggi Airport,,-38.472,145.623
+Small,YWDS,,,Woodside Au Airport,,-35.133,145.667
+Small,YTGG,,,Taggerty Airport,,-37.35,145.7
+Small,YGGI,,,Goolgowi Airport,,-34,145.717
+Small,YELS,,,Earlston Airport,,-36.596,145.722
+Small,YJER,,,Jerilderie Airport,,-35.37,145.725
+Small,YSBG,,,Strathbogie Airport,,-36.855,145.738
+Small,YBUP,,,Bunyip Airport,,-38.017,145.75
+Small,YLLD,,,Langlo Downs Airport,,-25.533,145.767
+Small,YNMN,,,New Moon Airport,,-19.2,145.767
+Small,YLOY,,,Longwarry Airport,,-38.108,145.778
+Medium,YCBA,CAZ,,COBAR,4984 ft,-31.538,145.794
+Small,YHLG,,,Hillgrove Airport,,-19.642,145.797
+Small,YEGA,,,Engonnia Airport,,-29.317,145.833
+Small,YELW,,,Eildon Weir Airport,,-37.208,145.833
+Small,YBTS,,,Battery Downs Airport,,-19.433,145.85
+Small,YCLY,,,Coleambally Airport,,-34.8,145.85
+Small,YLEG,,,LEONGATHA,3032 ft,-38.493,145.86
+Small,YBUI,,,Burnie Airport,,-41.049,145.88
+Small,YRSV,,,Rosevale Resort Airport,,-27.133,145.9
+Small,YTUY,,,Tully Airport,,-17.933,145.917
+Medium,YBKE,BRK,,BOURKE,6004 ft,-30.039,145.952
+Small,YOKE,,,Oakvale Airport,,-22.267,145.983
+Small,YWYA,,,Wyandra Airport,3000 ft,-27.267,145.99
+Medium,YBLA,BLN,,BENALLA,3422 ft,-36.552,146.007
+Small,YIFL,IFL,,INNISFAIL,4439 ft,-17.559,146.012
+Small,YYWG,,,YARRAWONGA,3750 ft,-36.029,146.029
+Small,YWRE,,,Wirralie Airport,,-22.27,146.05
+Small,YFCK,,,Fish Creek Airport,,-38.715,146.053
+Small,YTNS,,,Toliness Airport,,-25.321,146.069
+Small,YMFD,,,Mansfield Airport,,-37.067,146.117
+Small,YDKI,DKI,,Dunk Island Airport,,-17.942,146.14
+Small,YNDS,,,Natal Downs Airport,,-21.083,146.15
+Small,YIGM,IGH,,INGHAM,5006 ft,-18.661,146.152
+Small,YBHB,,,Bathurst Harbour Airport,,-43.421,146.156
+Small,YJRO,,,Jericho Airport,,-23.583,146.167
+Small,YDAL,,,Dallas Airport,,-34.567,146.183
+Small,YDNB,,,Doongmabulla Airport,,-22.067,146.233
+Small,YLSS,,,Lansdowne Airport,,-25.05,146.267
+Small,YCHT,CXT,,CHARTERS TOWERS,5695 ft,-20.043,146.273
+Small,YTMB,,,Tambo Airport,,-24.85,146.283
+Medium,YWGT,WGT,,WANGARATTA,5381 ft,-36.416,146.307
+Small,YNYM,,,Nymagee Airport,,-32.05,146.317
+Small,YTDL,,,Tidal River Airport,,-39.034,146.327
+Small,YLPR,,,Lake Pedder Airport,,-43.05,146.333
+Small,YMLC,,,Mole Creek Airport,,-41.533,146.333
+Medium,YCOR,CWW,,COROWA,5994 ft,-35.995,146.357
+Small,YLCG,,,Lake Cargelligo Airport,3900 ft,-33.278,146.37
+Small,YBYR,,,Byrock Airport,,-30.667,146.4
+Small,YWLP,,,Wilsons Promontory Airport,,-39.131,146.425
+Small,YEAT,,,Yea Airport,,-37.216,146.43
+Small,YILA,,,Milawa Vineyard Airport,,-36.45,146.433
+Small,YLEE,,,Leeton Airport,,-34.5,146.433
+Small,YEAB,,,Euabalong Airport,,-33.117,146.45
+Medium,YLTV,LTB,,LATROBE VALLEY,4692 ft,-38.207,146.47
+Small,YMCS,,,Macrossan Airport,,-20.017,146.483
+Small,YLHL,,,Long Hill Airport,,-41.333,146.5
+Small,YPAM,PMK,,PALM ISLAND,3714 ft,-18.755,146.581
+Medium,YAPH,ABH,,ALPHA,4777 ft,-23.646,146.584
+Small,YAUA,,,Augathella Airport,,-25.755,146.587
+Small,YHVH,,,Harvest Home Airport,,-20.683,146.65
+Small,YLGL,,,Laglan Airport,,-22.5,146.667
+Small,YBCH,,,Beechworth Airport,,-36.393,146.696
+Small,YTWE,,,Trelawney Airport,,-22.85,146.717
+Small,YYRM,,,Yarram Airport,3500 ft,-38.567,146.755
+Small,,,,Snowy Range Airfield,,-37.349,146.766
+Small,YMPE,,,Mount Cooper Airport,,-20.517,146.767
+Small,YLVK,,,Laverak (Military) Airport,1900 ft,-19.322,146.802
+Medium,YBRW,BWQ,,BREWARRINA,4547 ft,-29.974,146.817
+Small,YCDV,,,Caldervale Station Airport,,-25.108,146.833
+Small,YDOP,,,Donnington Airpark,,-19.612,146.84
+Small,YGTO,GEE,,Georgetown (Tas) Airport,,-41.08,146.84
+Small,YARL,,,Ardlethan Airport,,-34.367,146.883
+Small,YPOK,,,Porepunkah Airport,,-36.718,146.89
+Small,YBOT,,,Boatman Airport,,-27.25,146.917
+Small,YWMG,,,Weilmoringle Airport,,-29.233,146.933
+Small,YADM,,,Yandan Mine Airport,,-21.273,146.99
+Small,YGVE,,,Glendevie Airport,,-43.23,147.012
+Small,YBEL,,,Bothwell Airport,,-42.367,147.033
+Small,YSLT,,,Sale Airport,,-38.117,147.075
+Small,YBWI,,,Burdekin Falls Dam Airport,,-20.6,147.083
+Small,YMVN,,,Morven Airport,,-26.4,147.1
+Small,YYAC,,,Yacamunda Airport,,-21.383,147.1
+Small,YLGD,,,Longdown Airport,,-41.695,147.143
+Medium,YMES,SXE,,EAST SALE,7995 ft,-38.099,147.149
+Small,YTOK,,,Torres Park Homestead Airport,,-25.117,147.167
+Small,YNYN,NYN,,NYNGAN,5390 ft,-31.551,147.203
+Small,YSFY,,,Sandfly Airport,,-42.992,147.208
+Small,YCDO,CBX,,CONDOBOLIN,4501 ft,-33.064,147.209
+Small,YWIE,,,Wirralie Gold Mine Airport,,-21.117,147.267
+Small,YVAF,,,Valley Field Airport,,-41.81,147.292
+Small,YHBK,,,Holbrook Airport,,-35.683,147.317
+Small,YJCO,,,Jericho Airport,,-42.367,147.317
+Small,YMCL,,,Mount Coolon Airport,3000 ft,-21.392,147.325
+Small,YAYR,AYR,,AYR,4796 ft,-19.584,147.329
+Small,YMIR,,,Miralwyn Airport,,-30.15,147.335
+Small,YITT,,,Mitta Mitta Airport,,-36.514,147.359
+Small,YTUN,,,Tunbridge Airport,,-42.1,147.367
+Small,YTOT,,,Tottenham Airport,3100 ft,-32.248,147.368
+Small,YFDN,,,Federation Hsd Airport,,-35.012,147.374
+Small,YGDA,,,GOODOOGA,3530 ft,-29.073,147.376
+Small,YBYI,,,Bruny Island Airport,,-43.234,147.38
+Small,YBDP,,,Bridport Airport,,-41.017,147.417
+Small,,,,Woodbury Airfield,,-42.168,147.446
+Small,YCBG,,,HOBART CAMBRIDGE,3346 ft,-42.827,147.475
+Small,YBLL,BLS,,Bollon Airport,3000 ft,-28.058,147.483
+Medium,YTEM,TEM,,TEMORA,6454 ft,-34.421,147.512
+Small,YCAE,,,Campbell Town Airport,,-41.967,147.531
+Medium,YBNS,BSJ,,BAIRNSDALE,3612 ft,-37.888,147.568
+Small,YOMO,,,Omeo Airport,,-37.097,147.593
+Small,YTLL,,,Tullamore Airport,,-32.617,147.6
+Medium,YCMT,CMQ,,CLERMONT,4301 ft,-22.773,147.621
+Small,YBTT,,,Buttabone Airport,,-31.358,147.633
+Small,YJEM,,,Jemalong Airport,,-32.41,147.67
+Small,,,,Lake Omeo Dry Lake Ultralightport,,-36.962,147.673
+Small,YBRA,,,Benambra Airport,,-36.967,147.699
+Small,YWWH,,,Wentworth Airport,,-22.1,147.7
+Small,YCRA,,,Carinda Airport,,-30.458,147.708
+Small,YOLY,,,Oxley Station Airport,,-31.013,147.711
+Medium,YWRN,QRR,,WARREN,3894 ft,-31.733,147.803
+Small,YQBE,,,Quambone Royona Airport,,-30.879,147.842
+Small,YKCK,,,Killiecrankie Airport,,-39.849,147.858
+Small,YCSV,KCE,,Collinsville Airport,3000 ft,-20.597,147.86
+Small,,,,Boobyalla Airfield,,-40.899,147.865
+Medium,YCRG,CYG,,CORRYONG,4340 ft,-36.183,147.888
+Small,YHRG,,,Haddon Rig Airport,,-31.469,147.895
+Small,YTUA,,,Triabunna Airport,,-42.514,147.898
+Small,YMIT,MTQ,,MITCHELL,4675 ft,-26.483,147.937
+Small,YLAG,,,Lagoon Bay Airport,,-42.885,147.953
+Small,YLKE,,,Lakes Entrance Airport,,-37.853,147.958
+Small,YELG,,,Elengerah Airport,,-31.85,147.983
+Medium,YLRD,LHG,,LIGHTNING RIDGE,4613 ft,-29.457,147.984
+Small,YLET,,,Lakes Entrance Airport,,-37.879,147.987
+Small,YFLI,FLS,,Flinders Island Airport,5600 ft,-40.092,147.993
+Small,YTGI,,,Trangie Airport,,-31.967,148
+Small,YGRL,,,Great Lakes Vi Airport,,-37.842,148
+Small,YCBN,CBI,,Cape Barren Island Airport,,-40.392,148.017
+Medium,YCTM,CMD,,COOTAMUNDRA,4682 ft,-34.624,148.028
+Small,YSWA,,,Swansea Airport,,-42.102,148.068
+Small,YDAR,,,Darlington Airport,,-42.573,148.069
+Small,YSPI,,,Springsure Airport,,-24.128,148.075
+Small,YTGV,,,The Grove Airport,,-34.686,148.104
+Small,YKHA,,,Khancoban Airport,,-36.233,148.117
+Medium,YWLG,WGE,,WALGETT,5335 ft,-30.033,148.126
+Small,YCKD,,,Clarke Island Airport,,-40.517,148.133
+Small,YEUL,,,Eulalia Airport,,-31.033,148.175
+Small,YGLN,,,Glencoe Airport,,-31.617,148.2
+Small,YPKH,,,Peak Hill Airport,,-32.75,148.2
+Small,YBWN,ZBO,,Bowen Airport,4400 ft,-20.018,148.215
+Medium,YDBI,DRN,,DIRRANBANDI,3993 ft,-28.592,148.217
+Medium,YNRM,QRM,,NARROMINE,4990 ft,-32.215,148.225
+Medium,YTMU,TUM,,TUMUT,3478 ft,-35.263,148.241
+Medium,YYNG,NGA,,YOUNG,4003 ft,-34.256,148.248
+Small,YLDB,,,Lady Barron (Flinders Is) Airport,,-40.2,148.25
+Small,YFRI,,,Friendly Beaches Airport,,-42,148.259
+Small,YSTH,HLS,,St Helens Airport,3500 ft,-41.337,148.282
+Small,YTBG,,,Talbingo Airport,,-35.583,148.283
+Medium,YDYS,DYA,,DYSART,5085 ft,-22.622,148.364
+Medium,YCNM,CNB,,COONAMBLE,5010 ft,-30.983,148.376
+Small,YHAE,,,Harden Airport,,-34.557,148.388
+Small,YGTP,,,Greenthorpe Airport,,-33.983,148.417
+Small,YHAB,,,Hideaway Bay Airport,,-20.117,148.433
+Small,YCSL,,,Consuelo Airport,,-24.633,148.467
+Small,YOAY,,,Oaky Creek Airport,,-23.06,148.495
+Small,YBUA,,,Bundarra Airport,,-21.967,148.533
+Small,YINJ,INJ,,Injune Airport,3000 ft,-25.85,148.533
+Small,YKUY,,,Kurray Airport,,-28.22,148.578
+Small,YCBR,CRB,,Collarenebri Airport,3900 ft,-29.522,148.582
+Small,YSGE,SGO,,ST GEORGE,4987 ft,-28.05,148.595
+Small,YJIN,QJD,,Jindabyne Airport,3000 ft,-36.427,148.602
+Small,YORB,RBS,,Orbost Airport,3700 ft,-37.79,148.61
+Small,YRLL,,,Rolleston Airport,,-24.462,148.632
+Small,YGIL,,,Gilgandra Airport,3000 ft,-31.703,148.638
+Medium,YCWR,CWT,,COWRA,5348 ft,-33.845,148.649
+Small,YCWW,,,Canowindra Airport,,-33.543,148.663
+Small,YWJS,,,Wee Jasper Airport,,-35.262,148.667
+Small,YACI,,,Arcadia Airport,,-25.2,148.683
+Small,YMMU,MMM,,MIDDLEMOUNT,5085 ft,-22.802,148.705
+Small,YFVW,,,Fairview Airport,,-32.789,148.72
+Small,YCLM,,,Collymongle Airport,,-29.453,148.743
+Small,YSHR,JHQ,,Shute Harbour Airport,,-20.278,148.757
+Small,YCUA,CUG,,Cudal Airport,4400 ft,-33.278,148.763
+Small,YWHI,,,Whitsunday Island Airport,,-20.267,148.767
+Small,YADI,,,Adaminaby Airport,,-35.998,148.796
+Small,YADY,,,Adaminaby Airport,,-35.983,148.8
+Medium,YBTR,BLT,,BLACKWATER,5023 ft,-23.603,148.807
+Small,YPLG,,,Pilliga Airport,,-30.367,148.883
+Small,YTWN,,,Tooraweenah Airport,3000 ft,-31.442,148.9
+Small,YDEG,,,Delegate Airport,,-37.061,148.942
+Small,YBRJ,,,Burren Junction Airport,,-30.158,148.975
+Small,YRUG,,,Rugby Airport,,-34.392,148.975
+Small,YWEL,,,Wellington Airport,,-32.467,148.983
+Small,YASS,,,Bakblok Airport,,-34.887,149.015
+Small,YYBE,,,Yarrabee Mine Airport,,-23.267,149.017
+Small,YYAS,,,Yass Airport,,-34.83,149.042
+Small,YMGI,,,MUNGINDI,4606 ft,-28.967,149.058
+Small,YSRT,,,Surat Airport,,-27.15,149.083
+Small,YBAD,,,Baradine Airport,,-30.955,149.092
+Closed,YWLE,,,Williamsdale Airport,,-35.559,149.13
+Small,YBUY,,,Bunyan Airfield,,-36.134,149.132
+Small,YPFT,,,Cooma/Polo Flat (Unlic) Airport,,-36.23,149.15
+Small,YBOM,,,Bombala Airport,,-36.917,149.167
+Small,YCNR,,,Cann River Airport,,-37.517,149.167
+Small,YBMO,,,Bombala Airport,,-36.905,149.182
+Small,YTUG,,,Trugananni Airport,,-24.467,149.267
+Medium,YCBB,COJ,,COONABARABRAN,4987 ft,-31.332,149.267
+Small,YBPI,BMP,,Brampton Island Airport,,-20.803,149.27
+Small,YBID,,,Binda,,-34.303,149.36
+Small,YKIU,,,Kaiuroo Airport,,-23.117,149.367
+Small,YWWA,WEW,,Wee Waa Airport,3000 ft,-30.258,149.408
+Small,YWDR,,,Collector2 Airport,,-34.939,149.41
+Small,YBCL,,,Boolcarrol Station Airport,,-30.05,149.417
+Small,YCLT,,,Collector Airport,,-34.883,149.417
+Small,YGAH,,,Greenbah Airport,,-30.126,149.435
+Small,YCRL,,,Crookwell Airport,,-34.5,149.45
+Small,YTOG,,,Togo Station Airport,,-30.082,149.532
+Small,YBMI,,,Boomi Airport,,-28.733,149.583
+Small,YCAH,CLH,,Coolah Airport,3500 ft,-31.773,149.61
+Small,YDLC,,,Dulacca Airport,,-26.633,149.717
+Small,YMCO,XMC,,Mallacoota Airport,3300 ft,-37.598,149.72
+Medium,YGLB,GUL,,GOULBURN,4209 ft,-34.81,149.726
+Small,YTLG,,,Taralga Grathawa Airport,,-34.289,149.782
+Small,YTMS,,,Tambar Springs Airport,,-31.315,149.847
+Small,YBAO,,,Braidwood Airport,,-35.45,149.85
+Small,YGBO,,,Gabo Island Airport,,-37.567,149.9
+Small,YTAM,XTO,,Taroom Airport,3600 ft,-25.802,149.9
+Small,YPRE,,,Premer Betoota Airport,,-31.477,149.903
+Small,YMEY,,,Mullaley Airport,,-31.1,149.917
+Small,YGOV,,,Gabo Is aAd sSte Airport,,-37.57,149.918
+Small,YLMB,,,Lambrook Airport,,-31.1,149.933
+Small,YCSI,,,Cassilis Rotherw Airport,,-32.002,149.961
+Small,YMOU,,,Moura Airport,3000 ft,-24.612,149.995
+Small,YHOY,,,Hollins Bay Airport,,-22.267,150.033
+Small,YBOG,,,Boggabri Airport,,-30.717,150.05
+Small,YTDR,TDR,,Theodore Airport,3000 ft,-24.993,150.093
+Small,YBIK,,,Bindook Airport,,-34.167,150.1
+Small,YMLS,WLE,,Miles Airport,3000 ft,-26.808,150.175
+Small,YWIS,,,WILLIAMSON,5928 ft,-22.473,150.178
+Small,YBVL,,,Blackville Airport,,-31.583,150.183
+Small,YBGY,,,Biniguy Airport,,-29.505,150.192
+Medium,YGDH,GUH,,GUNNEDAH,5400 ft,-30.961,150.251
+Small,YGDI,GOO,,GOONDIWINDI,4396 ft,-28.521,150.32
+Small,YKAT,,,Katoomba Airport,3000 ft,-33.668,150.323
+Small,YUPH,,,Upper Horton Wyl Airport,,-30.105,150.404
+Small,YILT,,,Milton Airport,,-35.321,150.439
+Small,YTAA,XTR,,Tara Airport,3000 ft,-27.157,150.477
+Small,YMIG,,,Mittagong Airport,,-34.467,150.5
+Small,YQDI,UIR,,QUIRINDI,3629 ft,-31.491,150.514
+Small,YBZA,,,Breeza Airport,,-31.317,150.517
+Small,YKEP,,,Lake Keepit Airport,,-30.891,150.526
+Small,YBIA,,,Bingara Airport,,-29.8,150.533
+Small,YWRL,,,Warialda Airport,,-29.533,150.533
+Medium,YSNW,NOA,,NOWRA,6870 ft,-34.949,150.537
+Small,YOAS,,,The Oaks Airport,,-34.084,150.559
+Small,YBBA,,,Barraba Airport,,-30.383,150.6
+Medium,YCCA,CCL,,CHINCHILLA,3497 ft,-26.775,150.617
+Small,YWLX,,,Wallacia Airport,,-33.867,150.65
+Small,YWIO,,,Wilton Airport,,-34.233,150.667
+Medium,YSCN,CDU,,CAMDEN,4804 ft,-34.04,150.687
+Small,YCNX,,,Cooranga Airport,,-29.067,150.767
+Medium,YWOL,WOL,,WOLLONGONG,5967 ft,-34.561,150.789
+Small,YWBN,,,Wedderburn Airport,,-34.187,150.805
+Small,YEMP,,,Emu Park Airport,,-23.257,150.813
+Small,YSCO,NSO,,SCONE,4606 ft,-32.037,150.832
+Closed,YHOX,,,HOXTON PARK,3602 ft,-33.91,150.852
+Small,YWBH,,,Wallabadah Airport,,-31.533,150.867
+Small,YDNR,,,Dunmore Manila Airport,,-30.658,150.875
+Small,YGGO,,,Goonoo Goonoo Airport,,-31.317,150.917
+Small,YSHW,,,Holsworthy (Military) Airport,2200 ft,-33.995,150.952
+Small,YASF,,,Ashford Airport,,-29.317,151.05
+Small,YMTO,MNQ,,MONTO,4301 ft,-24.886,151.1
+Small,YWOM,,,Woolomin Airport,,-31.317,151.133
+Small,YMQD,,,Mount Mcquoid Airport,,-33.11,151.138
+Small,YINO,,,Inverell North Airport,,-29.767,151.167
+Closed,YCAA,,,Calga Airport,,-33.403,151.212
+Small,YLYD,,,Lyndley Airport,,-26.833,151.233
+Small,YDAY,DBY,,DALBY,4160 ft,-27.155,151.267
+Small,YMMN,,,Millmerran Airport,,-27.863,151.275
+Small,YMDA,,,Mundubbera Airport,3000 ft,-25.592,151.317
+Small,YELR,,,Elderslie Airport,,-32.617,151.333
+Small,YEES,,,Elderslie Airport,,-32.6,151.34
+Small,YCNK,CES,,CESSNOCK,3600 ft,-32.788,151.342
+Small,YMSO,,,Mount Sandon Airport,,-31.39,151.41
+Small,YHCT,,,Heathcote Emergency Airport,,-31.24,151.432
+Closed,YOOB,,,Cooranbong Airport,,-33.06,151.462
+Small,YMND,MTL,,MAITLAND,3786 ft,-32.703,151.488
+Small,YWCH,WLC,,Walcha Airport,,-31,151.567
+Small,YGAY,GAH,,GAYNDAH,4150 ft,-25.614,151.619
+Small,YPWH,,,Pittsworth Airport,,-27.721,151.633
+Small,YKEL,,,Kelvin Station Airport,,-30.655,151.638
+Small,YPEC,BEO,,Aeropelican Airport,3000 ft,-33.067,151.648
+Medium,YGLI,GLI,,GLEN INNES,4915 ft,-29.675,151.689
+Medium,YBOK,OKY,,OAKEY,5410 ft,-27.411,151.735
+Small,YWVL,,,Woodville Airport,,-30.416,151.755
+Medium,YKRY,KGY,,KINGAROY,5249 ft,-26.581,151.841
+Small,YCFN,,,Clifton Airport,,-27.928,151.847
+Small,YWND,WDI,,Wondai Airport,3000 ft,-26.283,151.858
+Medium,YTWB,TWB,,TOOWOOMBA,3678 ft,-27.543,151.916
+Small,YMUA,,,Monduran Airport,,-24.875,151.917
+Small,YWCK,,,WARWICK,5380 ft,-28.149,151.943
+Small,YGCR,,,Gloucester Airport,,-32.05,151.983
+Small,YNAN,,,Nanango Airport,,-26.69,151.983
+Small,YSPE,SNH,,STANTHORPE,5597 ft,-28.62,151.991
+Small,YBIN,,,Biggenden Airport,,-25.525,152.05
+Small,YWMM,,,Wollomombi Airport,,-30.533,152.083
+Small,YCHB,,,Cherrabah Airport,,-28.417,152.167
+Small,YCDS,,,Childers Airport,,-25.253,152.335
+Small,YWSG,,,Watts Bridge Airport,3000 ft,-27.098,152.46
+Small,YBCM,,,Coominya,,-27.391,152.467
+Small,YFST,FOT,,Forster (Wallis Is) Airport,,-32.204,152.479
+Small,YTNC,,,Tuncurry Airport,,-32.15,152.483
+Small,YPAC,,,Pacific Haven Airport,,-25.237,152.543
+Small,YOBR,,,Old Bar Heritage Airport,,-31.965,152.591
+Small,YBOA,,,Boonah Airport,,-28.017,152.682
+Small,YGYM,GYP,,GYMPIE,4600 ft,-26.283,152.702
+Small,YMYB,MBH,,MARYBOROUGH,5207 ft,-25.513,152.715
+Small,YCMH,,,Camden Haven Airport,3000 ft,-31.665,152.742
+Medium,YKMP,KPS,,KEMPSEY,5413 ft,-31.074,152.77
+Small,YKBN,,,Kooralbyn Airport,,-28.09,152.845
+Closed,YBML,,,Bromelton Airport,,-27.968,152.9
+Small,YSGR,,,South Grafton Airport,,-29.708,152.928
+Small,YCAB,,,Caboolture Airport,,-27.083,152.983
+Small,YCXA,,,Cooloola Village Airpark,,-25.975,153
+Medium,YGFN,GFN,,GRAFTON,5607 ft,-29.759,153.03
+Small,YNSH,NSV,,Noosa Airport,,-26.423,153.063
+Small,YCAS,CSI,,CASINO,3609 ft,-28.883,153.067
+Small,YRBB,,,Rainbow Beach Airport,,-25.833,153.067
+Small,YCDR,CUD,,Caloundra Airport,3000 ft,-26.8,153.1
+Small,LGRS,,,Logan Reserve Airport,,-27.708,153.105
+Small,YPLI,,,Palmers Island/Yamba Airport,,-29.446,153.267
+Small,YHEC,,,Heck Field Airport,,-27.767,153.339
+Small,YTGA,TAN,,Tangalooma Airport,,-27.13,153.363
+Small,YSPT,SHQ,,Southport Airport,2600 ft,-27.915,153.373
+Small,YXTA,,,Tangalooma Resort Airport,,-27.2,153.383
+Small,YMUR,,,Murwillumbah Airport,,-28.332,153.413
+Small,YEVD,EVH,,EVANS HEAD,4144 ft,-29.093,153.42
+Small,,,,Kooringal Airstrip,,-27.346,153.426
+Small,YDUN,,,Dunwich Airport,3000 ft,-27.517,153.428
+Small,YTYH,,,Tyagarah Airport,,-28.595,153.551
+Small,,,Abrolhos,Abrolhos East Wallabi Island Airport,,-28.438,113.736
+Medium,YPAD,ADL,Adelaide,ADELAIDE INTL,10171 ft,-34.945,138.531
+Medium,YPED,,Adelaide,EDINBURGH,8399 ft,-34.703,138.621
+Small,YPPF,PAL,Adelaide,ADELAIDE PARAFIELD,4429 ft,-34.793,138.633
+Small,YAWT,,Agnes Water,Agnes Water Airport,,-24.202,151.893
+Small,,AGW,Agnew,Agnew Airport,,-12.146,142.149
+Small,,WSY,Airlie Beach,Whitsunday Airstrip,,-20.267,148.75
+Medium,YABA,ALH,Albany,ALBANY,5906 ft,-34.943,117.809
+Medium,YMAY,ABX,Albury,ALBURY,6234 ft,-36.068,146.958
+Small,YADG,,Aldinga,Aldinga Airport,,-35.29,138.49
+Medium,YBAS,ASP,Alice Springs,ALICE SPRINGS,7999 ft,-23.807,133.902
+Small,YLKN,LNH,Alpurrurulam,Lake Nash Airport,,-20.981,137.918
+Small,,AYD,Alroy Downs,Alroy Downs Airport,,-19.291,136.079
+Small,,,Althorpe Islands,Althorpe Lighthouse Airstrip,,-35.371,136.861
+Medium,YARM,ARM,Armidale,ARMIDALE,5702 ft,-30.528,151.617
+Small,YATN,,Atherton,Atherton Airport,3000 ft,-17.262,145.515
+Small,,,Avoca,Avoca Airport,,-41.782,147.719
+Medium,YAYE,AYQ,Ayers Rock,AYERS ROCK CONNELLAN,8527 ft,-25.186,130.976
+Medium,YBNA,BNK,Ballina,BALLINA BYRON GATEWAY,6234 ft,-28.834,153.562
+Small,YBBC,,Bamboo Creek Gold Mine,Bamboo Creek Airport,,-20.945,120.165
+Small,,BYX,Baniyala,Baniyala Airport,,-13.198,136.227
+Small,,,Baralaba,Baralaba,,-24.187,149.845
+Medium,YBAR,BCI,Barcaldine,BARCALDINE,5591 ft,-23.565,145.307
+Small,YBYL,,Baryulgil,Baryulgil Airstrip,,-29.218,152.616
+Small,,BVW,Batavia Downs,Batavia Downs Airport,,-12.659,142.675
+Medium,YBTH,BHS,Bathurst,BATHURST,5594 ft,-33.409,149.652
+Small,YBEB,,Bellburn,Pumululu National Park,,-17.545,128.305
+Closed,YBER,,Berwick,Berwick Airport,,-38.04,145.336
+Small,,BCZ,Bickerton Island,Milyakburra Airport,,-13.781,136.202
+Small,,,Bickerton Island,[DELETE] Milyakburra Airport,,-13.781,138.202
+Small,YBBE,BBE,Big Bell,Big Bell Airport,,-27.329,117.673
+Medium,YTNG,THG,Biloela,THANGOOL,4993 ft,-24.494,150.576
+Medium,YBCK,BKQ,Blackall,BLACKALL,5538 ft,-24.428,145.429
+Small,,BFC,Bloomfield,Bloomfield Airport,,-15.874,145.33
+Small,,BCK,Bolwarra,Bolwarra Airport,,-17.388,144.169
+Small,YBOV,,Border Village,Border Village Airport,,-31.639,129.012
+Small,YBOR,,Bordertown,Bordertown Airport,,-36.265,140.712
+Small,,,Bremer Bay,Bremer Bay Airport,,-34.381,119.332
+Small,YBAF,,Brisbane,BRISBANE ARCHERFIELD,4859 ft,-27.57,153.008
+Large,YBBN,BNE,Brisbane,BRISBANE INTL,11680 ft,-27.384,153.118
+Medium,YBHI,BHQ,Broken Hill,BROKEN HILL,8251 ft,-32.001,141.472
+Medium,YBRM,BME,Broome,BROOME INTL,7769 ft,-17.945,122.232
+Medium,YPEA,,Bullsbrook,PEARCE,8002 ft,-31.668,116.015
+Small,YDEA,,Bulman,Delara Airfield,,-13.669,134.291
+Medium,YBUD,BDB,Bundaberg,BUNDABERG,5030 ft,-24.904,152.319
+Medium,YWYY,BWT,Burnie,WYNYARD,5413 ft,-40.999,145.731
+Small,YCUR,,Cabramurra Township,Cabramurra Airport,,-35.927,148.393
+Medium,YBCS,CNS,Cairns,CAIRNS INTL,10489 ft,-16.886,145.755
+Large,YSCB,CBR,Canberra,CANBERRA,8802 ft,-35.307,149.195
+Small,YCBE,CBY,Canobie,Canobie Airport,,-19.479,140.927
+Small,,CQP,Cape Flattery,Cape Flattery Airport,,-14.971,145.311
+Small,YCEL,,Capella,Capella Airport,,-23.1,148.033
+Small,,CRY,Carlton Hill,Carlton Hill Airport,,-15.502,128.534
+Small,,CTR,Cattle Creek,Cattle Creek Airport,,-17.607,131.549
+Medium,YBCV,CTL,Charleville,CHARLEVILLE,5000 ft,-26.413,146.262
+Small,,,Chittering,Chittering Airstrip,,-31.521,116.147
+Small,YCFH,,Clifton Hills,Clifton Hills Airport,,-27.018,138.892
+Medium,YCCY,CNJ,Cloncurry,CLONCURRY,6562 ft,-20.669,140.504
+Small,,KFE,Cloudbreak Village,Fortescue - Dave Forrest Aerodrome,,-22.285,119.429
+Small,YFDF,,Cloudbreak Village,Fortescue - Dave Forrest Aerodrome,,0.000(N),119.429
+Medium,YSCH,CFS,Coffs Harbour,COFFS HARBOUR,6824 ft,-30.321,153.116
+Small,YCEM,,Coldstream,Coldstream Airport,,-37.728,145.408
+Small,,COB,Coolibah,Coolibah Airport,,-15.548,130.962
+Medium,YCOM,OOM,Cooma,COOMA SNOWY MOUNTAINS,6955 ft,-36.301,148.974
+Small,,CRJ,Coorabie,Coorabie Airport,,-31.894,132.296
+Small,YCOD,ODL,Cordillo Downs,Cordillo Downs Airport,,-26.745,140.638
+Small,,CSD,Cresswell Downs,Cresswell Downs Airport,,-17.948,135.916
+Small,YDLW,DYW,Daly Waters,Daly Waters Airport,,-16.265,133.383
+Small,YDNI,NLF,Darnley Island,Darnley Island Airport,,-9.583,143.767
+Medium,YPDN,DRW,Darwin,DARWIN INTL,11004 ft,-12.415,130.877
+Small,,,Delatite,Delatite Airstrip,,-37.145,146.159
+Small,YDEK,,Denmark,Denmark Airport,,-34.945,117.397
+Small,,,"Dept. of Conservation, Karijini National Park (08 9189 8157)",Karijini National Park,,-22.487,118.468
+Medium,YDPO,DPO,Devonport,DEVONPORT,6030 ft,-41.17,146.43
+Small,,DYM,Diamantina Lakes,Diamantina Lakes Airport,,-23.762,141.145
+Small,YDDF,DFP,Drumduff,Drumduff Airport,,-16.053,143.012
+Medium,YSDU,DBO,Dubbo,DUBBO,5604 ft,-32.217,148.575
+Small,YDLK,DLK,Dulkaninna,Dulkaninna Airport,,-29.013,138.481
+Small,,,Dwellingup,Dwellingup Airstrip,,-32.693,116.075
+Small,YEIN,EIH,Einasleigh,Einasleigh Airport,,-18.503,144.094
+Medium,YELD,ELC,Elcho Island,ELCHO ISLAND,4724 ft,-12.019,135.571
+Small,,EKD,Elkedra,Elkedra Airport,,-21.173,135.444
+Small,YELL,,Elliott,Elliott Airport,,-17.527,133.53
+Medium,YEML,EMD,Emerald,EMERALD,6234 ft,-23.567,148.179
+Small,YEEB,ENB,Eneabba,Eneabba Airport,,-29.833,115.246
+Small,,EDD,Erldunda,Erldunda Airport,,-25.206,133.254
+Small,YEDA,ETD,Etadunna,Etadunna Airport,,-28.741,138.589
+Small,YEUA,,Euroa,Euroa Aerodrome,,-36.745,145.513
+Small,YEVA,EVD,Eva Downs,Eva Downs Airport,,-18.001,134.863
+Medium,YPLM,LEA,Exmouth,LEARMONTH,9997 ft,-22.236,114.089
+Small,YFNE,FIK,Finke,Finke Airport,,-25.595,134.583
+Small,YFSK,,Fiskville,Fiskville Airport,,-37.678,144.221
+Medium,YFBS,FRB,"Forbes,",FORBES,4029 ft,-33.364,147.935
+Small,YFRK,,Frankland River Grazing co,Frankland Airport,,-34.423,117.026
+Small,,,Frankland Valley Vineyard or Ferngrove Winery,Frankland Valley Vineyard,,-34.348,116.952
+Closed,YGAT,,Gatton,Gatton Campus Airport,,-27.56,152.34
+Closed,YWMD,,Gillieston Heights,West Maitland Airport,,-32.757,151.53
+Medium,YGLA,GLT,Gladstone,GLADSTONE,5364 ft,-23.87,151.223
+Medium,YBCG,OOL,Gold Coast,GOLD COAST,6699 ft,-28.164,153.505
+Small,YGDN,GDD,Gordon Downs,Gordon Downs Airport,,-18.678,128.592
+Small,YGKL,GKL,Great Keppel Island,Great Keppel Is Airport,,-23.183,150.942
+Small,YGNF,GFE,Grenfell,Grenfell Airport,,-34,148.133
+Medium,YGTH,GFF,Griffith,GRIFFITH,4931 ft,-34.251,146.067
+Medium,YGTE,GTE,Groote Eylandt,GROOTE EYLANDT,6237 ft,-13.975,136.46
+Small,YSMB,,Grosford,Somersby Airstrip,,-33.368,151.3
+Medium,YBHM,HTI,Hamilton Island,HAMILTON ISLAND,5395 ft,-20.358,148.952
+Small,,,Harrismith,Harrismith Airport,,-32.942,117.865
+Small,YHAW,HWK,Hawker,Wilpena Pound Airport,,-31.856,138.468
+Small,,HAT,Heathlands,Heathlands Airport,,-11.737,142.577
+Small,,HLV,Helenvale,Helenvale Airport,,-15.686,145.215
+Medium,YHBA,HVB,Hervey Bay,HERVEY BAY,6561 ft,-25.319,152.88
+Small,,HIG,Highbury,Highbury Airport,,-16.424,143.146
+Medium,YMHB,HBA,Hobart,HOBART,7385 ft,-42.836,147.51
+Small,YHOV,,Hodgeson River,Hodgeson River Airfield,,-15.546,134.096
+Closed,,,Hopetoun,Hopetoun Airfield,,-33.909,120.147
+Medium,YHID,HID,Horn Island,HORN ISLAND,4557 ft,-10.586,142.29
+Small,YELN,,http://www.elliston.sa.gov.au,Elliston Airport,,-33.638,134.9
+Small,,,http://www.maitraya.com,Maitraya Resort Airstrip,,-34.987,118.056
+Small,,,Indigenous Land Corporation,Cardabia Station Airstrip,,-23.106,113.805
+Small,YILW,,Inglewood,Inglewood Airport,,-28.417,151.083
+Small,YIMT,,Innamincka Township,Innamincka Township Airport,,-27.742,140.745
+Medium,YIVL,IVR,Inverell,INVERELL,6936 ft,-29.888,151.144
+Small,YINW,IVW,Inverway,Inverway Airport,,-17.841,129.643
+Medium,YAMB,,Ipswich,AMBERLEY,9997 ft,-27.641,152.712
+Small,YPSH,PEA,Ironstone,Penneshaw Airport,,-35.756,137.963
+Small,YJST,,Jamestown,Hubert Wilkins Airstrip,,-33.192,138.616
+Small,YJBY,,Jervis Bay Territory,JERVIS BAY,5000 ft,-35.147,150.697
+Medium,YPKG,KGI,Kalgoorlie,KALGOORLIE BOULDER,6562 ft,-30.789,121.462
+Small,YKAP,,Kapunda,Kapunda Airport,,-34.25,138.917
+Medium,YPKA,KTA,Karratha,KARRATHA,6070 ft,-20.712,116.773
+Medium,YPTN,KTR,Katherine,TINDAL,9003 ft,-14.521,132.378
+Closed,YXKE,,Kempsey,Kempsey Hospital Helicopter Landing Site,,-31.067,152.821
+Small,,,Kilcoy,Kilcoy Airfield,,-26.971,152.57
+Small,,KBD,Kimberley Downs,Kimberley Downs Airport,,-17.398,124.355
+Small,YKIR,KBB,Kirkimbie,Kirkimbie Station Airport,,-17.779,129.21
+Small,,KOH,Koolatah,Koolatah Airport,,-15.889,142.439
+Small,YKLB,KKP,Koolburra,Koolburra Airport,,-15.319,143.955
+Medium,YKOW,KWM,Kowanyama,KOWANYAMA,4528 ft,-15.486,141.751
+Small,,,Kukerin WA,Kukerin,,-33.175,118.085
+Small,,KGR,Kulgera,Kulgera Airport,,-25.843,133.292
+Small,,,Kulin,Kulin Bush Races Strip,,-32.664,118.311
+Medium,YPKU,KNX,Kununurra,KUNUNURRA,6000 ft,-15.778,128.708
+Small,YKTN,,Kyneton,Kyneton Airport,,-37.226,144.447
+Small,,,Lake Clifton,Lake Clifton Airstrip,,-32.791,115.671
+Small,YBIZ,BZP,Lakefield National Park,Bizant Airport,,-14.74,144.119
+Small,YLAK,,Lakeside,Lakeside Airpark,,-20.682,148.628
+Closed,YLCI,,Lancelin,Lancelin Airport,,-31.017,115.333
+Closed,,,Latrobe,Latrobe Airport,,-41.235,146.396
+Medium,YMLT,LST,Launceston,LAUNCESTON,6499 ft,-41.545,147.214
+Closed,YLVT,,Laverton,"RAAF Williams, Laverton Base",5000 ft,-37.864,144.746
+Medium,YLEO,LNO,Leonora,LEONORA,6621 ft,-28.878,121.315
+Small,,LIB,Limbunya,Limbunya Airport,,-17.236,129.882
+Small,YLIN,LDC,Lindeman Island,Lindeman Island Airport,,-20.454,149.04
+Medium,YLIS,LSY,Lismore,LISMORE,5404 ft,-28.83,153.26
+Small,YLOK,LOC,Lock,Lock Airport,,-33.544,135.693
+Medium,YLRE,LRE,Longreach,LONGREACH,6352 ft,-23.434,144.28
+Small,YLHI,LDH,Lord Howe Island,Lord Howe Island Airport,2900 ft,-31.538,159.077
+Small,YLOV,LTV,Lotus Vale,Lotus Vale Airport,,-17.048,141.376
+Small,YLOH,,Louth,Louth Airport,,-30.542,145.1
+Small,YLHS,LTP,Lyndhurst,Lyndhurst Airport,,-19.196,144.371
+Small,YMAA,UBB,Mabuiag Island,Mabuiag Island Airport,,-9.95,142.183
+Small,,MNW,Macdonald Downs,Macdonald Downs Airport,,-22.444,135.199
+Medium,YBMK,MKY,Mackay,MACKAY,6499 ft,-21.172,149.18
+Small,,MIZ,Mainoru,Mainoru Airstrip,,-14.053,134.094
+Small,YMDI,MQA,Mandora,Mandora Airport,,-19.738,120.838
+Small,YMVM,,Mangrove Mountain,Mangrove Mountain Airport,,-33.285,151.213
+Medium,YMGD,MNG,Maningrida,MANINGRIDA,5020 ft,-12.056,134.234
+Medium,YBMC,MCY,Maroochydore,MAROOCHYDORE SUNSHINE COAST,5896 ft,-26.603,153.091
+Small,YMQA,MQE,Marqua,Marqua Airport,,-22.806,137.251
+Small,YMHU,,McArthur River Mine,MCARTHUR RIVER MINE,4931 ft,-16.442,136.084
+Medium,YMAV,AVV,Melbourne,AVALON,10000 ft,-38.039,144.469
+Large,YMML,MEL,Melbourne,MELBOURNE INTL,11998 ft,-37.673,144.843
+Medium,YMMB,MBW,Melbourne,MELBOURNE MOORABBIN,3812 ft,-37.976,145.102
+Closed,YPLE,,Melbourne,Plenty Airport,,-37.723,145.113
+Small,YTYA,,Melbourne,Tyabb Airport,,-38.267,145.175
+Small,YMEL,,Melton,Melton Airport,,-37.617,144.567
+Medium,YMER,MIM,Merimbula,MERIMBULA,5256 ft,-36.909,149.901
+Small,YMEO,,Merton,Merton Airport,,-36.968,145.708
+Small,,,Middlebrook Station,Middlebrook Station Scone Airstrip,,-31.971,150.811
+Small,YCDL,,Middlesex,Cradle Mountain Airport,,-41.581,145.938
+Medium,YMIA,MQL,Mildura,MILDURA,6004 ft,-34.229,142.086
+Small,YMGB,MGT,Milingimbi Island,MILINGIMBI,4626 ft,-12.094,134.894
+Small,,MWY,Miranda Downs,Miranda Downs Airport,,-17.329,141.886
+Small,YMIP,MIH,Mitchell Plateau,Mitchell Plateau Airport,,-14.791,125.824
+Medium,YMRB,MOV,Moranbah,MORANBAH,5000 ft,-22.058,148.077
+Medium,YMOR,MRZ,Moree,MOREE,5292 ft,-29.499,149.845
+Small,YMOT,MET,Moreton,Moreton Airport,,-12.444,142.638
+Small,,,Morphett Vale,Huntfield Airfield,,-35.173,138.494
+Medium,YMRY,MYA,Moruya,MORUYA,4997 ft,-35.898,150.144
+Small,YMOM,,Moulamein,Moulamein Airport,,-35.058,144.021
+Small,YMBT,,Mount Beauty,Mount Beauty Airport,,-36.732,147.169
+Small,YGON,GPD,Mount Gordon Mine,Mount Gordon Airport,,-19.773,139.404
+Small,YMGN,GSN,Mount Gunson,Mount Gunson Airport,,-31.46,137.174
+Medium,YHOT,MHU,Mount Hotham,MOUNT HOTHAM,4762 ft,-37.047,147.334
+Medium,YBMA,ISA,Mount Isa,MOUNT ISA,8399 ft,-20.664,139.489
+Small,YMUC,MUQ,Muccan Station,Muccan Station Airport,,-20.659,120.067
+Medium,YMDG,DGE,Mudgee,MUDGEE,5705 ft,-32.562,149.611
+Small,YHEW,,Mulara,Hedlow Airport,,-23.223,150.605
+Small,,MUP,Mulga Park,Mulga Park Airport,,-25.86,131.65
+Small,YMUK,MVK,Mulka,Mulka Airport,,-28.348,138.65
+Small,YMBX,,Mundrabilla,Mundrabilla Airport,,-31.867,127.854
+Small,YMUG,MNE,Mungeranie,Mungeranie Airport,,-28.009,138.657
+Small,YLMU,,Mungo,Mungo Lodge Airport,,-33.746,143.001
+Small,YMUI,MYI,Murray Island,Murray Island Airport,,-9.917,144.055
+Small,,MYO,Myroodah,Camballin Airport,,-18.125,124.272
+Closed,,,Nain,Hutt River Airstrip,,-28.071,114.477
+Small,YNHS,NBH,Nambucca Heads,Nambucca Heads Airport,,-30.65,153
+Small,YNUD,,Nammuldi Mine,Nammuldi Mine Airstrip,,-22.392,117.376
+Medium,YNBR,NAA,Narrabri,NARRABRI,5000 ft,-30.319,149.827
+Medium,YNAR,NRA,Narrandera,NARRANDERA,5302 ft,-34.702,146.512
+Small,YDIX,DXD,New Dixie,Dixie Airport,,-15.117,143.316
+Small,,,New Norcia,New Norcia airstrip,,-30.967,116.215
+Medium,YNWN,ZNE,Newman,NEWMAN,6798 ft,-23.418,119.803
+Medium,YPGV,GOV,Nhulunbuy,GOVE,7244 ft,-12.269,136.818
+Small,YGLP,,Nicholson,Gallipolli Airport,,-19.142,137.874
+Small,,NKB,Noonkanbah,Noonkanbah Airport,,-18.495,124.852
+Small,YOLD,OLP,Olympic Dam,OLYMPIC DAM,5220 ft,-30.485,136.877
+Medium,YORG,OAG,Orange,ORANGE,5499 ft,-33.382,149.133
+Small,,OKB,Orchid Beach,Orchid Beach Airport,,-24.959,153.315
+Small,YORV,ODR,Ord River,Ord River Airport,,-17.341,128.912
+Closed,YPAK,,Pakenham,Pakenham Airport,,-38.099,145.488
+Medium,YPBO,PBO,Paraburdoo,PARABURDOO,6995 ft,-23.171,117.745
+Small,YPDO,PRD,Pardoo,Pardoo Airport,,-20.118,119.59
+Medium,YPKS,PKE,Parkes,PARKES,5525 ft,-33.131,148.239
+Small,YPTJ,,Patjarr,Patjarr Airport,,-24.619,126.327
+Small,,PEP,Peppimenarti,Peppimenarti Airport,,-14.144,130.091
+Small,,,Perth,Langley Park Airstrip,,-31.961,115.868
+Medium,YPJT,JAD,Perth,PERTH JANDAKOT,4179 ft,-32.097,115.881
+Large,YPPH,PER,Perth,PERTH INTL,11299 ft,-31.94,115.967
+Small,,,Pinjarra,Pinjarra Skydiving Airstrip,,-32.667,115.882
+Small,,,Pinjarra,Pinjarra North Airstrip,,-32.58,115.885
+Medium,YMPC,,Point Cook,POINT COOK,4508 ft,-37.932,144.753
+Medium,YPPD,PHE,Port Hedland,PORT HEDLAND INTL,8202 ft,-20.378,118.626
+Medium,YPLC,PLO,Port Lincoln,PORT LINCOLN,4918 ft,-34.605,135.88
+Medium,YPMQ,PQQ,Port Macquarie,PORT MACQUARIE,5203 ft,-31.436,152.863
+Small,YKYB,,Private Airfield in the Shire of Campaspe,Kyabram Airport,,-36.332,144.972
+Medium,YBPN,PPP,Proserpine,PROSERPINE WHITSUNDAY COAST,6801 ft,-20.495,148.552
+Small,YRED,,Redcliffe,Redcliffe Airport,2700 ft,-27.207,153.068
+Small,YING,,Rewan,Ingelara Airport,,-24.997,148.333
+Medium,YSRI,XRH,Richmond,RICHMOND,7001 ft,-33.601,150.781
+Small,YRID,,Riddell,Riddell Airport,,-37.48,144.718
+Small,YRBE,,Robe,Robe Airport,,-37.175,139.805
+Medium,YBRK,ROK,Rockhampton,ROCKHAMPTON,8622 ft,-23.382,150.475
+Small,,RDA,Rockhampton Downs,Rockhampton Downs Airport,,-18.953,135.201
+Small,YROE,RBU,Roebourne,Roebourne Airport,,-20.762,117.157
+Medium,YROM,RMA,Roma,ROMA,4934 ft,-26.545,148.775
+Small,YRSY,,Romsey,Romsey (Riddell/Penfield) Airport,,-37.392,144.738
+Small,YRRB,RPB,Roper Bar,Roper Bar Airport,,-14.735,134.525
+Small,YSII,SBR,Saibai Island,Saibai Island Airport,,-9.378,142.625
+Medium,YWSL,,Sale,WEST SALE,5010 ft,-38.092,146.965
+Small,YSAN,NDS,Sandstone,Sandstone Airport,,-27.98,119.297
+Small,,SWB,Shaw River,Shaw River Airport,,-21.51,119.362
+Small,YSHG,SGP,Shay Gap,Shay Gap Airport,,-20.425,120.141
+Small,,,Sherlock,Sherlock Ultralight Airfield,,-35.32,139.793
+Small,YSIA,,Siam,Siam Airport,,-32.557,136.709
+Small,YSGT,SIX,Singleton,Singleton Airport,,-32.601,151.193
+Small,YDOC,,Singleton,Dochra Airfield,10200 ft,-32.65,151.208
+Small,YSWK,,South West Rocks,South West Rocks Airport,,-30.925,153.028
+Small,,ZVG,Springvale,Springvale Airport,,-17.787,127.67
+Small,YSTC,,Stuart Creek,Stuart Creek Airport,,-29.717,137.063
+Small,,SSK,Sturt Creek,Sturt Creek Airport,,-19.166,128.174
+Small,YWBS,SYU,Sue Islet,Warraber Island Airport,,-10.208,142.825
+Small,YPEF,,Sunbury,Penfield Airfield,,-37.513,144.698
+Medium,YSBK,BWU,Sydney,SYDNEY BANKSTOWN,4448 ft,-33.924,150.988
+Large,YSSY,SYD,Sydney,SYDNEY INTL,12999 ft,-33.946,151.177
+Medium,YSTW,TMW,Tamworth,TAMWORTH,7218 ft,-31.084,150.847
+Small,YTAR,TAQ,Tarcoola,Tarcoola Airport,,-30.703,134.584
+Medium,YTRE,TRO,Taree,TAREE,4934 ft,-31.889,152.514
+Medium,YTNK,TCA,Tennant Creek,TENNANT CREEK,6427 ft,-19.634,134.183
+Small,YTFD,,Tenterfield,Tenterfield Airport,,-28.992,151.93
+Small,YTHD,TDN,Theda Station,Theda Station Airport,,-14.788,126.496
+Small,YTHI,,Thistle Island,Thistle Island Airport,,-35.025,136.18
+Small,YTLP,,Tilpa,Tilpa Airport,,-30.933,144.417
+Small,YTMY,TYP,Tobermorey,Tobermorey Airport,,-22.256,137.953
+Small,,TPR,Tom Price,Tom Price Airport,,-22.746,117.869
+Small,YTQY,,Torquay,Torquay Airport,,-38.3,144.365
+Small,,TWP,Torwood,Torwood Airport,,-17.363,143.75
+Medium,YBTL,TSV,Townsville,TOWNSVILLE,7999 ft,-19.253,146.765
+Small,YTFA,,Truro Flat,Truro Flat Airpark,,-34.398,139.385
+Small,YTKY,TKY,Turkey Creek,Turkey Creek Airport,,-17.041,128.206
+Small,YUCH,,Ucharonidge Station,Ucharonidge Airport,,-17.672,134.241
+Small,YBWO,,Upper Cornish Creek,Bowen Downs Airport,,-22.464,144.998
+Medium,YSWG,WGA,Wagga Wagga,WAGGA WAGGA,5801 ft,-35.165,147.466
+Small,YWAL,WLA,Wallal,Wallal Airport,,-19.774,120.649
+Small,YWAX,,Wanarn,Wanarn Airport,,-25.298,127.556
+Small,YGLS,,Warakurna,Giles Airport,,-25.044,128.296
+Small,YWKW,,Warkworth,Warkworth Airport,,-32.549,151.024
+Small,YWVA,,Warnervale,Warnervale Airport,,-33.24,151.43
+Small,,WRW,Warrawagine,Warrawagine Airport,,-20.844,120.702
+Small,YWRR,,Warroora Homestead,Warroora Homestead Airport,,-23.446,113.849
+Small,,,Warroora Station,Warroora Station Airstrip,,-23.475,113.799
+Small,YWAC,,Wauchope,Wauchope Airport,,-20.65,134.217
+Medium,YBWP,WEI,Weipa,WEIPA,5397 ft,-12.679,141.925
+Small,YBSG,,Weipa,SCHERGER,10003 ft,-12.624,142.087
+Medium,YWWL,WWY,West Wyalong,WEST WYALONG,5200 ft,-33.937,147.191
+Medium,YWHA,WYA,Whyalla,WHYALLA,5531 ft,-33.059,137.514
+Closed,YWKH,,Wickham,Wickham Airport,,-20.676,117.125
+Medium,YWLM,NTL,Williamtown,WILLIAMTOWN,7999 ft,-32.795,151.834
+Small,YWDL,WON,Wondoola,Wondoola Airport,,-18.575,140.892
+Small,YWWI,WWI,Woodie Woodie,Woodie Woodie Airport,,-21.663,121.234
+Small,YWKD,,Woodycupaldiya,Woodycupaldiya Airfield,,-13.867,129.988
+Small,YPWR,UMR,Woomera,WOOMERA,7782 ft,-31.144,136.817
+Small,YWKM,,Wyalkatchem,Wyalkatchem Airport,,-31.203,117.379
+Small,YYTA,KYI,Yalata Mission,Yalata Mission Airport,,-31.471,131.825
+Small,YYAL,YLG,Yalgoo,Yalgoo Airport,,-28.355,116.684
+Small,YYMI,XMY,Yam Island,Yam Island Airport,,-9.901,142.776
+Small,,KYF,Yeelirrie,Yeelirrie Airport,,-27.277,120.096
+Small,YYKI,OKR,Yorke Island,Yorke Island Airport,,-9.757,143.411

@@ -1,0 +1,47 @@
+<style>
+	.question input,
+	.question select {
+		color: #000;
+	}
+	
+	.angular-ui-tree-placeholder {
+		display: block;
+		height: 35px !important;
+		clear: both;
+		background-color: #eee;
+	}
+</style>
+<div ui-content-for="title">
+	<span>Edit Equipment Item</span>
+</div>
+
+
+<div class="section">
+	<div class="scrollable ng-scope">
+		<div ng-model="models" class="container-fluid section section-break scrollable-content">
+			<div>
+				<div>
+					<div class="form-group">
+						<label>Title</label>
+						<input class="form-control" type="text" ng-model="object.title" placeholder="Title" />
+					</div>
+				</div>
+				<hr>
+
+				<div ng-repeat="fieldData in fields" class="question">
+
+							<br>
+							<h3>{{fieldData.title}}</h3>
+							<span ng-show="fieldData.description != ''">{{fieldData.description}}</span>
+							<div a-input="fieldData.type" a-field-data="fieldData" ng-model="formData['fields'][fieldData.handle]"></div>
+				</div>
+				<br>
+				<hr>
+				<br>
+				<button class="form-control btn-primary" ng-click="saveObject()">Save</button>
+				<br>
+				<button class="form-control" ng-click="deleteChecklist()" ng-show="!newscaffold">Delete</button>
+				<br>
+			</div>
+		</div>
+	</div>

@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Alttitude - NovaLab</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimal-ui" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="yes" />
+
+    <link rel="shortcut icon" href="/favicon.png" type="image/x-icon" />
+
+    <link rel="stylesheet" href="css/app.min.css" />
+
+    
+    <script src="js/vendor.js"></script>
+    <script src="js/app.js"></script>
+
+      <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+    <script  type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSKwR4r4HKkaKRFbFnKb-jYTG3weqbz60&libraries=geometry"></script>
+ 
+  </head>
+
+  <body 
+    ng-app="AltitudeApp" 
+    ng-controller="MainController"
+    style="font-family: ubuntu, sans-serif, arial;"
+    >
+    <!-- Sidebars -->
+    <div ng-include="'sidebar.html'" 
+            ui-track-as-search-param='true'
+            class="sidebar sidebar-left"></div>
+
+    <div ng-show="currentUser" ng-include="'sidebarRight.html'" 
+            class="sidebar sidebar-right"></div>
+
+    <div class="app">
+
+      <!-- Navbars -->
+
+      <div class="navbar navbar-app navbar-absolute-top">
+        <div class="navbar-brand navbar-brand-center" ui-yield-to="title">
+          Altitude
+        </div>
+        <div class="btn-group pull-left">
+          <div ui-toggle="uiSidebarLeft" class="btn sidebar-toggle">
+            <i class="fa fa-bars"></i> Menu
+          </div>
+        </div>
+        <div ui-show='uiSidebarRight' class="btn-group pull-right" ui-yield-to="navbarAction">
+          <div ng-click="closeSidebarRight()" class="btn">
+            <i class="fa fa-chevron-left"></i> Back
+          </div>
+        </div>
+      </div>
+
+      <div class="navbar navbar-app navbar-absolute-bottom" ng-show="(baseButtons != null && baseButtons.length > 0)">
+        <div class="btn-group justified">
+          <a ng-repeat="btn in baseButtons" ng-click="btn.click()" class="btn btn-navbar" ng-show="(btn.show === undefined || btn.show())"><i class="fa fa-{{btn.icon}} fa-navbar fa-lg"></i> {{btn.label}}</a>
+        </div>
+      </div>
+
+      <!-- App Body -->
+      <div class="app-body" ng-class="{loading: loading, 'no-base':(baseButtons === undefined || baseButtons == null || baseButtons.length == 0)}">
+        <div ng-show="loading" class="app-content-loading">
+          
+	<p ng-repeat="text in loadingText">{{text}}</p>
+            <img class="animated fadeIn" src="img/loader.gif" style="max-width:100%; max-height: 100%"/>
+        </div>
+        
+        <div class="app-content">
+          <ng-view></ng-view>
+          
+
+        </div>
+      </div>
+
+    </div><!-- ~ .app -->
+    <div ui-yield-to="modals"></div>
+  
+      <div class="modal" ui-if="helpmodal" ui-state='helpmodal'>
+        <div class="modal-backdrop in"></div>
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button class="close" 
+                      ui-turn-off="modal1">&times;</button>
+              <h4 class="modal-title">{{helpTitle}}</h4>
+            </div>
+            <div class="modal-body" ng-bind-html="helpBody | sanitize">
+              
+            </div>
+            <div class="modal-footer">
+              <button ui-turn-off="helpmodal" class="btn btn-primary">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+      <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-54308549-7', 'auto');
+          ga('send', 'pageview');
+      </script>
+  </body>
+</html>

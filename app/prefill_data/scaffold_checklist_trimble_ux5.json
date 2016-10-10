@@ -1,0 +1,172 @@
+{
+  "company": "<company>",
+  "created_by": "<user>",
+  "created_ts": "<created_ts>",
+  "type": "checklist",
+  "title": "UX5 Preflight",
+  "data": [
+    {
+      "handle": "toldg",
+      "title": "Preflight",
+      "description": "Suitable take off and Landing site? Sufficient clear to meet landing requirements?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "airframe",
+      "title": "Preflight",
+      "description": "Airframe condition good? Check for cracks and defects",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "propellor",
+      "title": "Preflight",
+      "description": "Propeller and motor condition good? Check for damage to motor, housing and propellor, and check free spinning.",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "pitot",
+      "title": "Preflight",
+      "description": "Pitot tube clear and secure?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "battery",
+      "title": "Preflight",
+      "description": "Battery serial number?",
+      "type": "text",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "software",
+      "title": "Preflight",
+      "description": "Open Aerial Imaging 2",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "softwarepreflight",
+      "title": "Before Take-off",
+      "description": "Aerial Imaging 2 Preflight complete?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "checkflightplan",
+      "title": "Before Take-off",
+      "description": "Flight plan uploaded acceptable and uploaded?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "ldgdir",
+      "title": "Before Take-off",
+      "description": "Landing direction set against wind?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "alltochecks",
+      "title": "Before Take-off",
+      "description": "All take off checks OK?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "people",
+      "title": "Before Take-off",
+      "description": "Area clear of people and obstructions?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "takeoff",
+      "title": "Before Take-off",
+      "description": "Take off",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    }
+  ]
+}

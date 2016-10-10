@@ -1,0 +1,64 @@
+{
+  "company": "<company>",
+  "created_by": "<user>",
+  "created_ts": "<created_ts>",
+  "type": "checklist",
+  "title": "Postflight Report",
+  "data": [
+    {
+      "handle": "flightcount",
+      "title": "Flight Count",
+      "description": "Number of actual flights completed",
+      "type": "number",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "flightissues",
+      "title": "Flight Issues",
+      "description": "Any concerns with flight?",
+      "type": "textarea",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "operationalissues",
+      "title": "Operational Issues",
+      "description": "Any concerns with operational procedures?",
+      "type": "textarea",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "flightlogs",
+      "title": "Flight Logs",
+      "description": "Download all bbx files to computer",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    },
+    {
+      "handle": "submitreport",
+      "title": "Submit Report",
+      "description": "Please email the report along with .bbx files to robert@hlgs.com.au",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "OK",
+          "label": "OK"
+        }
+      ]
+    }
+  ]
+}

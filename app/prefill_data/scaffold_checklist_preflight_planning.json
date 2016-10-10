@@ -1,0 +1,160 @@
+{
+  "company": "<company>",
+  "created_by": "<user>",
+  "created_ts": "<created_ts>",
+  "type": "checklist",
+  "title": "Preflight Planning",
+  "data": [
+    {
+      "handle": "project",
+      "title": "Project",
+      "description": "Name of project",
+      "type": "text",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "date",
+      "title": "Date",
+      "description": "Date of proposed flying",
+      "type": "number",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "location",
+      "title": "Location",
+      "description": "Address or GPS co-ordinates of area. Please send through screenshot of planning software or google earth is applicable",
+      "type": "text",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "flightcount",
+      "title": "Flight Count",
+      "description": "Expected number of flghts",
+      "type": "number",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "airspace",
+      "title": "Airspace",
+      "description": "Check the local airspace requirements (no operations within 3nm of aerodromes or within controlled airspace)",
+      "type": "textarea",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "weather",
+      "title": "Weather ",
+      "description": "Check the weather forecast for the proposed flight date",
+      "type": "textarea",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "notams",
+      "title": "NOTAMS",
+      "description": "Check if any NOTAMs will be applicable on the propsed flight data",
+      "type": "textarea",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "localareacontrol",
+      "title": "Local Area Control",
+      "description": "Possibility of public moving into area?",
+      "type": "textarea",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "30mrule",
+      "title": "30M rule",
+      "description": "Able to maintain 30m clear of public?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "Yes",
+          "label": "Yes"
+        },
+        {
+          "value": "No",
+          "label": "No"
+        }
+      ]
+    },
+    {
+      "handle": "obstructions",
+      "title": "Obstructions",
+      "description": "Expected obstructions in take-off\/landing areas?",
+      "type": "textarea",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    },
+    {
+      "handle": "lineofsight",
+      "title": "Line of sight",
+      "description": "Able to maintain visual line of site?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "Yes",
+          "label": "Yes"
+        },
+        {
+          "value": "No",
+          "label": "No"
+        }
+      ]
+    },
+    {
+      "handle": "locationpermission",
+      "title": "Location Permission",
+      "description": "Permission of any landowners obtained?",
+      "type": "buttons",
+      "source": "",
+      "source_type": "custom",
+      "data": [
+        {
+          "value": "Yes",
+          "label": "Yes"
+        },
+        {
+          "value": "No",
+          "label": "No"
+        }
+      ]
+    },
+    {
+      "handle": "localrestrictions",
+      "title": "Local Restrictions",
+      "description": "Details of any extra local restrictions or by laws",
+      "type": "textarea",
+      "data": "No further restrictions, or details of restrictions"
+    },
+    {
+      "handle": "additional",
+      "title": "Additional",
+      "description": "Any further information",
+      "type": "textarea",
+      "source": "",
+      "source_type": "custom",
+      "data": [ ]
+    }
+  ]
+}
